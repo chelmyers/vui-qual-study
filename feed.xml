@@ -1,0 +1,2648 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chelsea Myers</title>
+    <description>Chelsea Myers is a front-end developer located in Philadelphia. She is a developer at Happy Cog, co-founder of Coffeebot Studios, and published author.
+</description>
+    <link>http://chelmyers.com/</link>
+    <atom:link href="http://chelmyers.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 16 Mar 2017 08:41:35 -0400</pubDate>
+    <lastBuildDate>Thu, 16 Mar 2017 08:41:35 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Interview #8</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gender:&lt;/strong&gt; Male&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Age:&lt;/strong&gt; 23&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; iPhone 5s&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;VUI Usage:&lt;/strong&gt; Monthly&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past VUIs:&lt;/strong&gt; Siri, Word dictation&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tasks:&lt;/strong&gt; Weather, timer, speech-to-text&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hardest Task:&lt;/strong&gt; News&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Easiest Task:&lt;/strong&gt; Weather&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;responses&quot;&gt;Responses&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Alexa, set a timer for 10 minutes.&lt;/li&gt;
+  &lt;li&gt;Alexa, remind me to buy salt.&lt;/li&gt;
+  &lt;li&gt;What’s the weather?&lt;/li&gt;
+  &lt;li&gt;What’s going on today?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;encoded-transcript-pdfpdfsinterview-08-codedpdf&quot;&gt;&lt;a href=&quot;/pdfs/Interview-08-CODED.pdf&quot;&gt;Encoded Transcript (PDF)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;memos&quot;&gt;Memos&lt;/h2&gt;
+
+&lt;p&gt;When laziness is high the chance of using voice control even though the user believes as its lower increases.&lt;/p&gt;
+
+&lt;p&gt;User stick to personal assistant tasks because that’s all they see and know.  they feel the most comfortable saying these types of tasks because  because they overhear them a lot.&lt;/p&gt;
+
+&lt;p&gt;Grocery list is not familiar for this user so they rely on a way of management that they already know: the to do list.&lt;/p&gt;
+
+&lt;h2 id=&quot;transcript&quot;&gt;Transcript&lt;/h2&gt;
+&lt;p&gt;Interviewee #8: All right.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Oh. What was that time?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: 11:19. What time zone are you in?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Anyway, okay. Now that it’s working, I’m going to start off asking you a few questions about you and your experience. First off, can I ask you how old you are?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: 23.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yesterday, I sent an email and said I was 24 and then I realized that I wasn’t, so that’s why… I’m 23, for the record.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: For the record? Well, yeah, what’s wrong with that? I think I’m 22 constantly, but I’m not. I’m just one year older than you, at 24, but I’m also the youngest out of everybody else I know. Okay, moving on to more relevant questions: can I ask you what type of phone do you own?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: An iPhone 5S.. yeah, something like that.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome. With your iPhone 5S or any other devices, do you have any other previous experience using voice control?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What specific programs?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Programs other than Siri? Siri for that. I’ve tried the Microsoft Word dictation, but that was years ago, but that’s really it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: It’s within Microsoft Word?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah. I mean, I don’t know if it’s actually part of Microsoft Word or if it was another program. I think it was part of Microsoft Word.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome, and what types of tasks do you do with Siri on your phone?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Nothing very well. Sometimes, I ask for the weather and sometimes I’ll get an answer, and, more often than not, it’s like if it’s cold out, I’ll use the voice to text option so that I don’t have to type.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Oh, you don’t have those touchscreen gloves?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I do, but the gloves are too big for my hands and so they don’t really work.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Oh, so it doesn’t end up working? How accurate do you find voice to text?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: It’s hit or miss. Some words, it gets really well, but I can’t think of any of those words off the top, but, sometimes, it’ll very easily mistake a sentence into an entirely different sentence, but then I still have to go back in and erase it and do it by hand.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: If it causes errors, why do you choose to try it again and again?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Because it’s cold out. I never really use it unless there is a reason that I don’t want to use my hands for the text, and for weather, again, if my hands are busy, I can click the button and say, “What’s the weather?” instead of scrolling through.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That’s about it?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah, that’s about it. If I need my hands for other things.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: It might work, so it’s worth the gamble.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Why do you choose not to explore other features within voice interface other than voice to text and weather?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I don’t really know what else there is. I mean, I could probably tell her to open an app, but, at the same time, I could also just click the app icon.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That is true.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah. I feel like it’s only the stuff that I need to do every day that I might use it for, but for specific apps or things that I want to do, I probably wouldn’t think to use voice control.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So the commands that you use are ones you’re familiar with or comfortable?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Do you know how you first came across these interactions, like seeing somebody else do it or just hit and miss?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I mean, I didn’t have a smartphone for a long time, so I probably saw other people doing it, and then when I got my own, I used to …&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome. All right. Let me go onto the next section. Next, I have four different scenarios for you, and you’re going to use Alexa here and hold the space bar to ask Alexa to help you out. I’m going to keep making sure it’s recording, because so many times does it stop. It’s okay. With each of the scenario, I’m going to read it out to you. Again, imagine that you’re in it. Whenever you’re ready, hold down space bar and ask Alexa to help you out. If you have any questions about the prompts before you actually speak or use your phrase, you can, of course, ask me, and then we’re going to wait until Alexa gives you your response back. Again, she’s a little slow. Are you ready for your first prompt?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Mm-hmm (affirmative).&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. The first prompt is: you are boiling pasta, and the instructions say to boil it for 10 minutes. Use Alexa to help you keep track of these time. Move that closer to you.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Alexa, set a timer for 10 minutes. I forgot to mention that I just used that –.&lt;/p&gt;
+
+&lt;p&gt;Alexa: 10 minutes starting now.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. All right. Did you hear what Alexa said?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: “10 minutes starting now.”&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yes. You also use timer for Siri?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right, and is that something you use a lot?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: When you say cooking, that’s the only time that I really use it is when-&lt;/p&gt;
+
+&lt;p&gt;Chelsea: When else do we really need timers?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You’re familiar with this command, and I think you said it very confidently.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Alexa set a timer for 10 minutes starting now. Did that meet your expectations?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Mm-hmm (affirmative).&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What do you think Alexa’s going to do now?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: She’s going to count down from 10 minutes to zero-&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Just patiently waiting.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay, great. Let’s move onto the second task, which is: you realize you are out of salt. Use Alexa to manage a grocery list.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Alexa, remind me to buy salt.&lt;/p&gt;
+
+&lt;p&gt;Alexa: I put, “Buy salt,” on your to-do list.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right, so did that feedback meet your expectations?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I guess. I mean, I wouldn’t expect her to message me when she knows I’m at a grocery store, but that’s probably the closest she could get.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Where do you think this to-do list lives?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: For Alexa, I have no idea. If she was synced with your iPhone or whatever phone you have, I’m guessing it would show up there, but, right now, it’s probably out in the void on somebody’s to-do list, not mine.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Mine.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah, it’s on your to-do list.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: I need to buy a lot of salt, apparently. Why did you choose to-do list over anything else?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I didn’t consciously pick to-do list. I just didn’t know how she was going to remind me, so I just figured she’d figure something out.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Now, do you use reminders or any type of list tracking on your own?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I don’t use the to-do list. I usually just make my own list in notes or something, because I never check the reminders of the to-do list, but if I can set an alarm to remind myself of something, I’d do that.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: How do you normally manage your own grocery list?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Now, my dad goes out and buys … no.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That’s awesome.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Usually, I just write it down in notes, and then I’ll check it off. I don’t usually use the list for whatever reason.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. So you have the upgraded iOS where you do the checklist or you just-&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I think it has the checklist, yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Great. I love that feature. Okay. If you were to rephrase, would you? Or are you confident in-&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: If I knew she was linked up with some sort of to-do list on my phone, I’d probably be –&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. There is, also, a grocery list function with Alexa as well, so the to-do list and grocery lists are separate, but either they both go to the same place.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Okay.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Let’s move onto the next scenario, which is: you have people over for dinner … oh, not that one. I don’t like that one. Okay. Should you wear a jacket today or not? Have Alexa fill you in about your city’s weather.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: What’s the weather?&lt;/p&gt;
+
+&lt;p&gt;Alexa: In Seattle, it’s 50 degrees with showers. Today, you can-&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: What’s the weather here like?&lt;/p&gt;
+
+&lt;p&gt;Alexa: … look for rainy weather with a high of 53 degrees and a low of 42 degrees.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right. Did that feedback meet your expectations?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Well, no, because I’m not in Seattle.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You’re not in Seattle, no.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: But I’m assuming, for whatever reason, it’s not synced up with Philly. If it was, then it probably would of.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Is there, maybe, a way you would want to rephrase that question?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I wouldn’t want to rephrase the question, but she could’ve given it to me a little bit snappier, just like, “It’s 62. The low will be whatever.” It felt kind of like she was going through, “Oh, and the wind chill and the dew point … “ I know she didn’t actually go through all that, but for a question like that, I’d rather her just say, “It’s 62 degrees outside.”&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah. How do you normally ask Siri for the weather?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I ask Siri, “What’s the weather?” And then she doesn’t know what I’m saying, so I go into the weather app and I look it up myself.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: I thought you said you usually use it.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I use it, but it doesn’t always work.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: It doesn’t always work? Oh. I believe, also, Siri doesn’t say anything back; it just presents on list?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah, it just presents the list.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What’s at the top of the list? It’s like-&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: –&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah, sure.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: What’s the weather?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Oh-&lt;/p&gt;
+
+&lt;p&gt;Alexa: Okay, here’s the weather today.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah, so it doesn’t actually say. It just says –&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You changed Siri! It’s British.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Oh, yeah. It’s British.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So it’s just the temperature big at the top, glanceable?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay, great. Alexa took a little too long, too much. That is the phrase you say, that is what you use, whether Siri works or not.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Let’s move onto the last task, which is: you’re getting ready in the morning, and you want to hear current events. Have Alexa catch you up.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: What’s going on today? She’s probably going to tell me what’s on my calendar.&lt;/p&gt;
+
+&lt;p&gt;Alexa: New things to try: know what to expect when you’re heading out. Ask me what’s traffic like right now-&lt;/p&gt;
+
+&lt;p&gt;Alexa: … and I can give you real time travel information for you area.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: It will come back. I swear, it will. I have faith. I have faith in you, Alexa.&lt;/p&gt;
+
+&lt;p&gt;Alexa: In NPR news from TuneIn. Live from NPR News in Washington, I’m Lakshmi Singh. The US is charging two Russian spies and two alleged criminal hackers with carrying out the 2014 cyber attack on Yahoo and-&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Stop.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Anyway,… All right. You weren’t confident that Alexa was going to know what you wanted from her. Did she meet your expectations?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: She did, but I feel like if I had things on my calendar, she would’ve started with them, and then she would’ve gone to traffic, and then she would’ve done the news.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So, “What’s going on today?” You feel is more of what’s going on today for you?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah, that’s what I would assume if this was synced up to whatever account you use.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah. Do you know what Alexa was doing? She gave you two responses. Do you know what the first one was?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: The first one was traffic in the area. The second one was just NPR News.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Mm-hmm (affirmative). Does that meet your expectations in news?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: In news, it would. I probably should of specified what kind of news I wanted to learn. The only thing about the NPR I didn’t like what that it just went into that first thing, and if I wasn’t interested in that, I wouldn’t feel like listening to the entire thing.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah. What would you prefer instead of the sound clip?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: She could read off three or four titles, and then you could pick which one you wanted to hear.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: How do you normally get your news?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: The side of Facebook, probably.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That’s fine. That’s totally okay.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah, either that or … I don’t know, that’s probably it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah, and how does that normally look? On the side of Facebook?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: It’s a little list on the side with a two or three-word, usually, tagline to get your interest. Most of it’s nonsense-&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Clickbait? Yeah. “Miley Cyrus is a Russian hacker.”&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I don’t get my real news from there. That’s where I usually see news.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You don’t need to defend..&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Then, I have to look it up.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: I mean, that’s how people are getting the news nowadays, is through social media. Actually, Facebook cracked down on fake news and it’s a lot better. Clickbait, not so much. Clickbait will be with us, apparently, till we die. Anyway, I have some follow-up questions for you. In general, what was the easiest prompt or the prompt you felt the most comfortable in crafting a phrase for?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: The weather.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: The weather, and why would you say that?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Because everybody talks about the weather, so we’ve got a lot of practice with it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: The way you ask other people about the weather is the way you would ask Alexa about it?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And you believe that she should understand that?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Mm-hmm (affirmative).&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What was the hardest task for you to figure out –?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Probably current events. I probably could’ve just said the words “current events,” and she would’ve gotten it, but I didn’t.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: But you chose to do a more colloquial, friendly kind of way.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Any other reason why you think that was the hardest for you?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: No, I think it was just the way I phrased the question.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Last but not least, my final question for you is … actually, I have two more. What do you think about voice control in general? And it’s totally okay if you say, “I hate that and I think it’s crap.” Do not feel biased because I’m working on it, because, sometimes, I hate it.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I don’t hate it. For me, I only use it in specific cases, so it’s not something that I would ever just rely on for everything.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: I mean, it’s interesting. If I had Wi-Fi and my house that could handle Alexa, I probably would have Alexa.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah. My Alexa and Nest thermostat hook up. So lazy. It’s literally right there sometimes, and I’m like, “Mmm, change it to 72 degrees.”&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Then, last but not least, do you have any other thoughts or anything in general that you think about Voice User Interfaces? Where do you think they’re going? Do you think they’re going to be incorporated more in your life in the future?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Probably, once I have an actual car, I’ll probably have to use them more for that sort of stuff.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah? So embedded in the car or on your phone..?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Either or. My mom’s minivan has it embedded in the car, and it’s the same hit or misses with the phone, but it’s less distracting, so it’s just the button the dashboard … not dashboard, steering wheel, whereas, with this … I think, in the newer versions, you can just say, “Hey, Siri,” and she’ll hear you, but mine doesn’t, so I have to hold down the button and then wait for it to start.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay, so if you have it in your hands already, sometimes … why do voice control when you can just go to it anyway?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: I was worried when you said, “Hey, Siri,” because all of my devices are hooked up-&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: All of your devices-&lt;/p&gt;
+
+&lt;p&gt;Chelsea: I’m like, literally, one-&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: “Shh, don’t say it.” “Yes?” “Yes?” “Yes?” “Yes?”&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Don’t say it. Okay, all right, &lt;em&gt;**&lt;/em&gt;. That’s all I have for you. Thank you so much.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #8: All right.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Let me end this recording. Please be … oh, thank God. It’s still recording.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Mar 2017 16:01:00 -0400</pubDate>
+        <link>http://chelmyers.com/2017/03/15/interview-08.html</link>
+        <guid isPermaLink="true">http://chelmyers.com/2017/03/15/interview-08.html</guid>
+        
+        <category>bias</category>
+        
+        <category>vui-fault</category>
+        
+        <category>distrust-accuracy</category>
+        
+        <category>convenience</category>
+        
+        <category>hands-free</category>
+        
+        <category>slow</category>
+        
+        <category>laziness</category>
+        
+        <category>unknown-features</category>
+        
+        <category>personal-assistant</category>
+        
+        <category>overheard</category>
+        
+        <category>repeat-task</category>
+        
+        <category>assumption-correct</category>
+        
+        <category>habit</category>
+        
+        <category>assumption-incorrect</category>
+        
+        <category>discover</category>
+        
+        <category>habit-expectation</category>
+        
+        <category>frustration</category>
+        
+        <category>tmi</category>
+        
+        <category>assumption-false-intelligence</category>
+        
+        <category>user-fault</category>
+        
+        <category>misinterpretation</category>
+        
+        <category>machine</category>
+        
+        <category>specific</category>
+        
+        <category>conversational</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Interview #7</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gender:&lt;/strong&gt; Male&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Age:&lt;/strong&gt; 27&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; Nexus 6P&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;VUI Usage:&lt;/strong&gt; 4x Weekly&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past VUIs:&lt;/strong&gt; Xbox One&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past Tasks:&lt;/strong&gt; Turn on, turn off, open apps&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hardest Task:&lt;/strong&gt; News&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Easiest Task:&lt;/strong&gt; Weather&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;responses&quot;&gt;Responses&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Alexa, set a timer for 10 minutes.&lt;/li&gt;
+  &lt;li&gt;Alexa, create grocery list. Add salt.
+    &lt;ul&gt;
+      &lt;li&gt;Set reminder, buy salt.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Alexa, what’s the weather?&lt;/li&gt;
+  &lt;li&gt;Alexa, what’s in the news?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;encoded-transcript-pdfpdfs07-interview-codedpdf&quot;&gt;&lt;a href=&quot;/pdfs/07-interview-CODED.pdf&quot;&gt;Encoded Transcript (PDF)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;memos&quot;&gt;Memos&lt;/h2&gt;
+&lt;p&gt;This user has a programming background and approaches some tasks like they are programs. Meaning he first tries to initiate a protocol and then manipulate within it.&lt;/p&gt;
+
+&lt;p&gt;The user does not actually do these tasks themselves to better their lives outside of voice control.&lt;/p&gt;
+
+&lt;p&gt;The user is more friendly with their phrases when they believe the phrase is more common. They could be mimicking how they would actually say it to another person as a way to figure out what to say.&lt;/p&gt;
+
+&lt;h2 id=&quot;transcript&quot;&gt;Transcript&lt;/h2&gt;
+
+&lt;p&gt;Chelsea: Thank you so much for giving me 15 minutes of your life. Which means if I had a card I would give it to you and say you would have 15 minutes of mine. [laughs] You could use that. So what I am looking for, what we are doing right now, is that I’m evaluating how people craft responses when using a VUI. So, a VUI is like Siri or Cortana, and Amazon Alexa as well. Are you familiar with these three? Or have you heard of them&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I kind of familiar with them&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah, you know they exist?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I know they exist, I have used like Cortana once or twice. My girlfriend’s sister uses Siri. I know of them.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Ok, so you are exposed. That’s good to know. So, This session should take about 15 minutes. I am going to ask you a few questions about your general experience with VUIs. And then we are going to do four tasks with Amazon Alexa using this simulator. It’s a website. Alexa is a software, or a program you that you can install on pretty much any device so we are using are using this web interface to interact with Alexa. I already have your permission, correct, to record this session?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yeah&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome. And it would be wonderful if you could state your name for me so I have it on the recording.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: My name is &lt;em&gt;**&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Perfect. Ok great so if I forget your last name I can always go into this recording. Awesome. So first off, do you mind if I ask you how old you are&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: 27, today!&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What, it’s your birthday? Facebook didn’t tell me! It told me it’s Jason Kirk’s birthday, but it didn’t tell me it was you. Aw, happy birthday! You got the “…and 3 others” notification on Facebook&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Typical. Typical Facebook.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Not primary. Sorry! We just became friends on Facebook. Happy birthday! You doing anything fun&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: No. I’m here.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: No! Aw.. this weekend, next weekend&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I visited with my family this weekend.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: There you go, you got some family attention this week at least. Well, happy birthday! That’s awesome. Birthdays are a big deal in my family. I find it so weird when people are like “Meh, you know.” I mean I can get that but my parents, my whole family is like, “BIRTHDAYS.”&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Ok sorry, but we are going to move on. Again, happy birthday! My next question for you is, what type of phone do you own&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I recently purchased a Nexus 6P.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And you are getting is set up? And everything. I am guessing you haven’t used any of the voice control features on it.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Not yet, but it has a voice to text thing&lt;/p&gt;
+
+&lt;p&gt;Chelsea: It has Google Assistant&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Could be?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: I think if it’s Android then it comes with Google Assistant&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: It on the Google Fi network thing. So it probably has Google Assistant.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Really you are on Google Fi&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yes&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What that is awesome&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: It’s great.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Aw, man. I want it so bad but like iPhone life. Can’t have it. What is your personal previous experience with voice control? Have you ever used a device or program&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: So, are XBox One, we have the Kinect with it, and that has some voice commands that you could use. Other than that, that’s about it. Like I said my girlfriend talks to Cortana sometimes on her laptop.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: How often do you use Xbox One Kinect commands&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Well, whenever we use it so 4 times a week.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Four times a week? And what type of commands do you use? I am not familiar, personally, with how to interact with Xbox one via voice&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Well it’s usually like, “Xbox, turn off” or “Go to this app” or “Open Netflix”&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And do you find it accurate&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: It’s [long pause] more often than not…it’s accurate. [laughs]&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Enough to rely on it?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yeah&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Enough to rely on it over a remote?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yeah for the most part&lt;/p&gt;
+
+&lt;p&gt;Chelsea: I’m sensing some frustration some of the time&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: It’s not so much of an issue with the voice commands it’s where Xbox lets you use the voice commands. You can use it on the main page to get to an app but once you’re inside the app you have to use a controller.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All that’s interesting. so it’s only useful in one specific…&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7:  yeah,  but if you’re on your way, if you’re getting up to get the controller and you want to open an app.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: that small window&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7:  that small window&lt;/p&gt;
+
+&lt;p&gt;Chelsea: thank God my controller is over here.  I can use a voice command.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7:  yeah go to Netflix while I turn on the controller&lt;/p&gt;
+
+&lt;p&gt;Chelsea: okay well you can also turn it off. Can you do that away from the main page?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7:  No, you can turn it off from anywhere. So that’s convenient.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: But you already have the controller anyway. And with XBox its just hold middle button then off…Yeah, I am PlayStation household so…&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I have been wanting to get one. Persona 5 comes out soon.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: We just got, this is not Xbox obviously, but we just got for the Wii U breath of the Wild. It’s beautiful.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: That was the only reason I was thinking about getting a Wii U.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah I… the a switch is getting pretty tough reviews, with the way you hold it, like the controllers&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yeah it’s pretty dumb&lt;/p&gt;
+
+&lt;p&gt;Chelsea: it’s the Wii, so as far as pretty dumb controllers go… In some parts of the game they legit make you use the pad. The Wii U pad. The only way you can… We are going to have such a longer… it’s going to be more than 15 minutes if we keep talking about video games.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: That’s fine.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And of course the Wii U pad is stashed in the corner of the room so you have to go find it. We never use it unless we got to update something. So it’s like alright, go up and get it. Why? Other  than that it’s beautiful, real cool,  and if you are a Zelda fan there are like nostalgia things in it. The high reviews are not without merit.  Let’s move on. So you are familiar with you said with Cortana because your fiance uses it,  with Xbox control,  Siri from your fiance’s sister,  and any other exposure you would say you had to Voice Control?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I don’t think so, not that I can think of.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: all right, that’s totally fine.  it’s what we talked about for the Kinect, you use it when you are getting up and getting the remote control,  why do you choose to use it at all then? Why do you choose to actually use the voice control?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7:  I guess the novelty of it. And I don’t know, it’s like ever so slightly convenient it’s technically convenient.  It can get us Netflix while we’re looking for the controller so there is a little bit of time saved.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That is true. And what would you say stops you from using voice control on other devices?  You have a Mac, did you upgrade to the latest version?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: No&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Well, maybe that’s why you don’t have Siri on your Mac yet. Or other functionality? You just update your devices, so maybe you don’t use voice control because you don’t have it on your devices? But is there anything from your personal opinion that stops you from using voice control?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: So probably because the things that I associate more with voice control are personal assistant type things.  Setting events or calendar updates and things like that. And those are things I don’t really do normally. So I guess I don’t have that need.  If there is something that the voice commands can do for me outside of that I just don’t know.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Do you typically see people use voice control as a personal assistant?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yeah&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Definitely the projects that I’m doing in this room are personal assistants.  And if you don’t need a personal assistant in your life…&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: That’s why my fiance is for.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That’s why she uses Cortana, she needs one. Now I have some tasks for you to complete. I’m going to give you a prompt. Each prompt is a scenario I would like you to imagine yourself in where you’re going to use Alexa to help you. After you hear the prompt take on time to craft your phrase or what you want to say to say to Alexa to accomplish this and then over here is the simulator so I believe you hit spacebar [to start] It does take a little bit for it to get back because the website is a little slow, so it’s not as quick as a Alexa.  But if you are ready we can move on or do you have any questions?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7:  Uh, sure?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Do you have any questions?  I’m going to pretty much give you a scenario like do so-and-so and ask Alexa to help you with so-and-so.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Is there anything specific I should know about Alexa?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: No because I want see or gauge how people interact with Alexa for the first time.  So you really don’t need to know anything.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: All right.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So you are perfect for this.  Other people I have been asking are around me too much.  or they are like I have Alexa I’m like s***.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: All right.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Again I’m going to testing Alexa I’m not testing you. Any frustration or any confusion that you have is fine and in fact if you can note that to me it will help me more and trying to understand.  now do you want to hear the first prompt?  So the first problem is you are boiling pasta and the instructions say to boil it for 10 minutes, use Alexa to help you keep track of time.  If you have any questions ask me but when you’re ready hold down spacebar to ask Alexa when you want.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7:  Alex, set a timer for 10 minutes.&lt;/p&gt;
+
+&lt;p&gt;Alexa:  10 minutes starting now.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So is the feedback Alexa gave you what you expected?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7:  yeah&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Do you cook?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yeah&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Do you boil pasta?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: yeah&lt;/p&gt;
+
+&lt;p&gt;Chelsea: How do you normally keep track of time?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7:  Microwave timer&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Nice.  do you use any other devices or just the microwave?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7:  If we need to set two timers for use a cell phone.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That’s really how it is.  So you are familiar with setting timers in general on a wide range of devices. Let’s move on to the second one.  You realize you’re out of salt, use of Alexa to manage your grocery list.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Alexa, create grocery list. Add salt. [Looks hesitant]&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Don’t worry you’re doing fine, also how you feel is how most people feel.&lt;/p&gt;
+
+&lt;p&gt;Alexa: Amazon’s choice for salt is salt is $23.71 including tax would you like to buy it?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: No! No. Don’t buy $23 worth of salt!&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: The top search for salt for salt is the spice lab’s Himalayan…&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Stop. Sorry that’s just the first time that came up.  Someone buying salt.  Did that feedback meet your expectations?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Um,  not quite.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What do you think Alexa was trying to do there?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: It like, I was trying to guide me to Salt it seems.  But just close, but I guess I needed more of a reminder and less of an action.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Would you like to try that again? I am willing.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Sure. Set reminder, buy salt.&lt;/p&gt;
+
+&lt;p&gt;Alexa: I’ve added “Buy salt” to your to-do list.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Right so how did the feedback meet your expectations?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Close, but I guess I needed more of a reminder, less of a …&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Action?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So, if you had, would you want to try that again? I’m willing.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Sure.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Alexa. Set reminder buy salt.&lt;/p&gt;
+
+&lt;p&gt;Alexa: I’ve added buy salt to your to-do list.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right, so how did that feedback meet your expectations?&lt;/p&gt;
+
+&lt;p&gt;Alexa: That was closer to what I was hoping.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Not spending 23, because that’s actually my account. That’s why I was kind of panicking a minute.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: That’s a lot of ….&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Did you hear about the commercial thing that happened with Alexa?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: No.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Or, the news report?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Oh, did like …&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah, so a family, the daughter came home and bought a doll house and Play Doh with Alexa. She just knew how to use it. She’s, I don’t know, like 7? So a local news place reported the story on it and they …&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: And everybody who had an Alexa was …&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Bought a doll house! I know … it was like a couple hundred people.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Anyway, all right. So when you changed the way you said it, you did less of an action, more of a word. But did you know that Alexa could actually buy things?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I don’t think that I did. Which makes me, concerns me a little bit.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: It does to me as well.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right and do you normally keep a grocery list or some sort of list to keep track of groceries? Or your fiance?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: We usually make a list like pretty much right before we go grocery shopping with just like what we need for the week. But we don’t really keep it running, over the week.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: How do you handle that? Pen and paper?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. All right. Let’s move on to the third one? All right. So scenario number three. Should you wear a jacket today or not? Have Alexa fill you in about your city’s weather.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Alexa. What’s the weather?&lt;/p&gt;
+
+&lt;p&gt;Alexa: In Seattle it’s 37 degrees with mostly cloudy skies. Today, you can look for rainy weather with a high of 43 degrees and a low of 36 degrees.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right. So did that meet your expectations?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: If I were in Seattle, yes.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And any thoughts as to why it’s set to Seattle?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: That’s probably where the server is for the website. Yeah. I assumed if I had an Alexa it would know my actual location.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah. And the information that it gave. Helpful?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. And do you have … So you, if I could make an observation, you asked very colloquially or very relaxed. Hey Alexa, like what’s the weather? So is there a reason maybe why your tone is a little bit friendlier?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Probably because it’s a more common request. So I figured that it would be able to handle it reasonably without too much guidance.
+Chelsea: So you felt comfortable? Saying it?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. All right. Would you, if you wanted to, would you rephrase that sentence at all, or would you try to change it to figure out your city’s weather?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Sure.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You try it …&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Alexa. What’s the weather in Philadelphia?&lt;/p&gt;
+
+&lt;p&gt;Alexa: Right now in Philadelphia, Pennsylvania it’s 36 degrees with intermittent clouds. Throughout the day you can expect more of the same, with a high of 52 degrees and a low of 36 degrees.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah. This morning’s freezing. Okay. And last but not least, you’re getting ready in the morning and you want to hear current events. Have Alexa catch you up.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: This is something I very infrequently do … Alexa. What’s in the news?&lt;/p&gt;
+
+&lt;p&gt;Alexa: In things to try, check what’s on your shopping list, just by asking me. If there’s something you’ve forgotten, I can add it for you. Then, see the list on your Alexa app when you’re on the go. You’ll never forget a thing.&lt;/p&gt;
+
+&lt;p&gt;Alexa: In NPR News from Tune-In. Live from NPR News in Washington, I’m Giles Snyder. A senior law enforcement official has confirmed to NPR that FBI director James&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Stop. You’re … So did that feedback match what you were expecting?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I wasn’t so much expecting the information about my live reminders and stuff.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And so what about what followed, NPR?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: That was fine. I mean NPR is good, obviously. It’s not a problem with NPR, but I was expecting more of just like a list of headline kind of things as opposed to what may have been a full story or at least a reading or blurb from that story.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So how do you normally browse news?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I don’t.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: No? How do you … all right. How does news come to you?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Uh, through my fiance I guess.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah? You’re in a bubble?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Very much yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That’s, most of my news right now comes on when my fiance turns on several of his news channels and I absorb it just being next to him.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I’ll catch like two or three minutes before Jeopardy.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: That’s about the extent of it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So nothing on your phone, no social media feeds …&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yeah, I guess on Social Media as people are posting things I’ll see it, but not really look at it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. All right. So that’s it with the tasks. I just have some follow-up questions for you. What would you say was the easiest prompt to do out of the four?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: The weather one.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And why do you think that is?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I think because it’s something that I actually … It’s something that I look for, so it’s, I don’t know, it was something I had to think about less.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Mm-hmm (affirmative). What was the hardest one for you to do?&lt;/p&gt;
+
+&lt;p&gt;Chelsea:  Or the one you felt … I guess hardest is a weird question … You felt was uncomfortable. Or least secure –&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I guess the news. The news one took me the longest to think about what to ask.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Did any of these functionalities surprise you or were they things you didn’t know Alexa could do?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Ordering salt was …&lt;/p&gt;
+
+&lt;p&gt;Chelsea: I have done this a few times and no one has yet ordered anything on my machine, especially not $23 salt. That’s salt!&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Maybe it’s just like a 40 pound bag of salt.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: I ordered a pound of Rosemary once. I still have it. It’s frozen in my freezer. Anyway. It happens. So the news one, okay. And you don’t browse for news at all, outside of voice control.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So what are some comments you have or thoughts about voice control in general? Where do you see it going or what do you despise about it? Some people just hate it.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: So it’s … I think it’s fine. It’s a good hands free option for doing things that can be done well. I think the biggest problem that voice control things have to overcome is that people are going to get very frustrated if they ask something that they think is obvious or that they think should be clear and the voice control system doesn’t think so or it gives them something that they’re not expecting. Because when you’re doing it with text it’s very easy to, because you’re doing it with text, I think you type it in a less natural way or you do it in such a way that you know you’re talking to a machine as opposed to if you’re just talking with your voice you might do it more casually which could be an issue.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So when confidence meets frustration it can create animosity?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah. It would suck to be like, “Hey Alexa, what’s the weather?” And Alexa’s like, “I don’t know what you’re talking about.” You’re like …&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And like you said, there’s no filter. When you type or use a keyboard, you’re putting something in between a translation, which you’re like … all right I know what you’re about, I know what I’m about, we’ll work this together.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: I’m going to try to put it in a way that you can understand and since I’ve been, since working with the Xbox, when we first got it … I guess it would be the opposite for me. When I first got it, I was like, very much like Xbox. Turn. Off. Enunciating very much and trying very hard to make sure that it understood what I was saying. But now more and more I’m like, Xbox turn off. Nothing. Xbox turn off. Xbox turn off.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: So it’s I don’t know, I guess it can go both ways.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah. A little bit of laziness meeting … I do have a Nest thermostat connected to my Alexa and you can control it. “Alexa, family room 85.” Or, not 85, God, I don’t want to live on …&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Live on the sun.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: 75. And she’ll be like, don’t understand, Room … I’m like, family room. Don’t understand, fun room. But I still won’t get up. “Alexa. Family Room.75” Okay great. So that’s all I have for you. Here this is for you. This is just 25 minutes … cuz yeah, it did get … 27. But … I’m sorry.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #7: Rounded …&lt;/p&gt;
+
+&lt;p&gt;Chelsea: It only ever took 17 minutes. You just had to bring up video games and bought 23 … you are like the twelfth person, too. So, of course you’re the one who I promised the most would take the last time and that’s what happens. Every time I say it’s only 13, 15 minutes, it goes up by two minutes.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Mar 2017 15:01:00 -0500</pubDate>
+        <link>http://chelmyers.com/2017/03/06/interview-07.html</link>
+        <guid isPermaLink="true">http://chelmyers.com/2017/03/06/interview-07.html</guid>
+        
+        <category>conversational</category>
+        
+        <category>machine</category>
+        
+        <category>distrust-accuracy</category>
+        
+        <category>frustration</category>
+        
+        <category>convenience</category>
+        
+        <category>novelty</category>
+        
+        <category>hands-free</category>
+        
+        <category>personal-assistant</category>
+        
+        <category>unknown-features</category>
+        
+        <category>overheard</category>
+        
+        <category>habit</category>
+        
+        <category>unconfident</category>
+        
+        <category>user-fault</category>
+        
+        <category>discover</category>
+        
+        <category>assumption-correct</category>
+        
+        <category>tmi</category>
+        
+        <category>assumption-false-intelligence</category>
+        
+        <category>assumption-incorrect</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Interview #6</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gender:&lt;/strong&gt; Male&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Age:&lt;/strong&gt; 24&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; Nexus 6&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;VUI Usage:&lt;/strong&gt; Rarely&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past VUIs:&lt;/strong&gt; Siri&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past Tasks:&lt;/strong&gt; Novelty tasks&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hardest Task:&lt;/strong&gt; Grocery&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Easiest Task:&lt;/strong&gt; News&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;responses&quot;&gt;Responses&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Alexa, in 10 minutes notify me.&lt;/li&gt;
+  &lt;li&gt;I need salt. Let me know that I need salt when I ask you if I need salt later on.
+    &lt;ul&gt;
+      &lt;li&gt;I’m out of salt, so make a list saying that I need salt.&lt;/li&gt;
+      &lt;li&gt;Alexa get me the f&lt;strong&gt;**&lt;/strong&gt; salt!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Alexa, what’s the temperature outside right now?&lt;/li&gt;
+  &lt;li&gt;Tell me the news.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;encoded-transcript-pdfpdfs06-interview-codedpdf&quot;&gt;&lt;a href=&quot;/pdfs/06-interview-CODED.pdf&quot;&gt;Encoded Transcript (PDF)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;memos&quot;&gt;Memos&lt;/h2&gt;
+&lt;p&gt;The user crafts very complicated ways to say phrases. This might be because they are uncomfortable with the task and haven’t done it with voice control or with other programs. This may be their way to think while saying.&lt;/p&gt;
+
+&lt;p&gt;User has not done a lot of these tasks outside voice control himself. He is not as confident with his phrases and has the most different responses we have seen so far.&lt;/p&gt;
+
+&lt;p&gt;The two people that want more than personal assistant tasks with voice control don’t use personal assistant aids whatsoever themselves.&lt;/p&gt;
+
+&lt;h2 id=&quot;transcript&quot;&gt;Transcript&lt;/h2&gt;
+
+&lt;p&gt;Chelsea: Anyway, where were we. You said Alexa in ten minutes notify me, and it said in ten minutes, starting now. We’re not sure what it’s gonna do, but it will notify you.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: It will lock me out in a demonic hell for eternity in ten minutes.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: It’s casting a spell, its turn is starting now. It’s a sleep spell. Those take a while. Okay, great. Let’s move onto the second task then, which you realize you are out of salt. You’ve elected to manage your grocery list.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: I need salt. Let me know that I need salt when I ask you if I need salt later on.&lt;/p&gt;
+
+&lt;p&gt;Alexa: Hmm. I’m not sure what you meant by that question.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: See the thing is I don’t really keep grocery lists.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah. So if you do manage it at all, do you just go to the store?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Yeah because I go to Old Nelson for pretty much most of my groceries. So if I forget anything, I’ll just go back. I don’t have to … right here, Old Nelson is like five minutes away, might as well. I have nothing else to do.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So just go? Come back?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Go, yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right so maybe try to rephrase that one more time? Or it’s not necessary.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Okay. I’m out of salt, so make a list saying that I need salt.
+ See I’m not sure about this because even if I had Alexa make a list, I probably wouldn’t look at it again.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That’s totally fine –&lt;/p&gt;
+
+&lt;p&gt;Alexa: I’ve added make to your to do list.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So Alexa, I think I added Make to your to do list. So apparently you have a to-do list that says make on it. Does that mean your expectations at all?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: I will make. No, it doesn’t’.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So this isn’t a familiar process for you anyway, you don’t create lists, you don’t add groceries to them. And your grocery process is let the groceries - I’ll get them when I get them and I’ll get what I get.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right. And don’t worry, if Alexa doesn’t understand, this is a test. Alexa, not just of you, so you can’t do anything wrong. That does mean don’t break my computer in any way …&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Alexa! Get me the fucking salt!&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You know what, actually sometimes she does respond to violence.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Oh wow.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay so let’s move onto the third task.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Wait I want to try it. Alexa if you don’t get me some fucking salt right now, I will make you explode.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Processing. I really can’t wait to play this one - oh no, didn’t like it, gave up, quit. Sometimes it does that.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: She doesn’t like me.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: But if you do things like shut up, or shut you bitch, she does that sometimes. Which is a little - someone had to program that. Okay so third task, should you wear a jacket today or not? Have Alexa fill you in about your city’s weather.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Alexa, what’s the temperature outside right now?&lt;/p&gt;
+
+&lt;p&gt;Alexa: Right now in Seattle, it’s 43 degrees with cloudy skies. Today’s forecast has showers with a high of 45 degrees and a low of 41 degrees.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Cause it’s default. So would you want to ask again?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: No, I think I’ve got everything I need to know.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right, so how do you normally figure out weather if you do at all?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: I don’t, I just walk outside. If its really bad, I’ll just walk inside.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay, to the lab or Old Nelson’s. Awesome, so did the results meet your expectations?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: It went a little bit too far, but that’s okay that’s nice.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay, and would you say that sentence again the same way or would you -&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah you would? Okay so you’re satisfied with the response to your phrase? Okay so let’s move onto the fourth task which is you’re getting ready in the morning and you want to hear current events. Have Alexa catch you up.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Tell me news. I don’t know, this isn’t something I really do.&lt;/p&gt;
+
+&lt;p&gt;Alexa: In things to try, people caring for family members may find me helpful. Some tasks I can assist with are reading audio books, creating shopping lists, and playing music. You can also set up repeating alarms to help remember to do things at a specific time.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: See, processing. It’s still working on it, it’s not done yet. It’s just a little slow.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: So helping family members is not actually news?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What do you think?&lt;/p&gt;
+
+&lt;p&gt;Alexa: In NPR news from tune in: live from NPR news in Washington, I’m Lax Mi Shing. After a turbulent first month in office, President Trump is preparing to appear before a joint session of congress tonight at nine eastern. He’s expected to get a warm -&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Stop.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay, so how do you feel about the response Alexa gave to you?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: I mean she answered it. I feel like I don’t really understand what I wanted to hear. Like this isn’t something I normally do. If I’m interested in something, I will go out and search for it myself, I won’t ask a general question about current events. I would say what current events am I interested in right now? I want to learn more about President Trump or I want to learn more about something else. I won’t just say an umbrella term for current events.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So you don’t use any aggregated new sources?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Not really.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So your process is more to find something specific and go after that?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay and that’s something that you do daily, weekly, or -&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Actually on my android, and it has this little thing where you swipe to the side and it will tell you stories for you. And by now it already knows what I’m interested in, and it will tell me things like GDC or league of Legends.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: So those are the kinds of news I’m interested in.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So based on what you asked, did what Alexa say meet the expectations?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Yeah. I guess i asked for news and I got it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay and if you had to rephrase it, would you or would you ask the same way?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: I would probably rephrase it by asking for something more specific, but just as of right now I don’t have any specific news I want to know about. Actually sure, let me try it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You can try.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Alexa, tell me about the ring city in Dark Souls three.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: It has some Easter eggs -&lt;/p&gt;
+
+&lt;p&gt;Alexa: Hmm, I can’t find the answer to the question I heard.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay so -&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: The ring city is in Dark Souls three, and it’s not released yet but it’s a bit of information I’m after.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay awesome. So now I would like to move onto asking more general questions, first off what was the easiest prompt to - which did you feel most comfortable asking?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Probably news. It was easiest, it’s just that yeah, it was simple.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Was that all something you maybe heard Rhea do or … influenced?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Not really.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: I remember that she also read the NPR segment.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah. All right, what was the hardest for you to do or one that you felt least confident in your phrase?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: The grocery list.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Grocery one? And why would you say that is?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: ‘cause it’s just - I’m not used to using grocery lists. I’m pretty sure if I was more conventional about it, then it would probably know what I’m talking about.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome. And what I’m asking you is just more general. So what do you think about voice user interfaces in general? Any additional comments about where you see them going or something that stuck out to you during this?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: I don’t know. I want to see voice user interfaces be more than realistic. I want them to just not be like a pocket secretary like asking a human to do things, I want them to be able to do something that only a computer could do and not just something that would be like talking to a very stupid human and hoping that they do what you want them to do. That’s kind of the trend with computers. Computers are just very autistic solvent humans, they don’t understand anything that you want them to do, you just have to be very precise about it. I know that voice user interfaces are trying to be more human-like, I don’t really like that direction so much.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That is interesting because we have these machines that don’t really work in ways that we understand, talking about the general public. We have our minds, the way we communicate, which is this one way, voice user interfaces do pose a interesting connection where it’s the machine talking to us in a way that we can. So there’s a lot of opportunities there. So I would agree with you, let’s stop making machines more like humans. Let’s start understanding machines and their infinite capabilities.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: If there was something that only a voice user interface could do and that proved to be something very useful, even if it wasn’t intuitive I would want to learn how to do it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah? Didn’t we do a reading like that in class like that? I did a reading that you would like that was pretty much - I don’t know if it was for seven eleven, but it was pretty much saying that - I think it was… I don’t know, but it’s pretty much saying our way of communication is so stupid. If we talked more like machines, we would be way better.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: Exactly. Maybe it was Tomimax?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Maybe it was, I forget. Qualifying exam papers, they’re all blurring together.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #6: What are you doing?&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Feb 2017 15:01:00 -0500</pubDate>
+        <link>http://chelmyers.com/2017/02/28/interview-06.html</link>
+        <guid isPermaLink="true">http://chelmyers.com/2017/02/28/interview-06.html</guid>
+        
+        <category>conversational</category>
+        
+        <category>habit-expectation</category>
+        
+        <category>user-fault</category>
+        
+        <category>no-desire</category>
+        
+        <category>delight</category>
+        
+        <category>discover</category>
+        
+        <category>anthropomorphic</category>
+        
+        <category>tmi</category>
+        
+        <category>habit</category>
+        
+        <category>unconfident</category>
+        
+        <category>specific</category>
+        
+        <category>vui-fault</category>
+        
+        <category>personal-assistant</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Interview #5</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gender:&lt;/strong&gt; Female&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Age:&lt;/strong&gt; 23&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; Samsung S7&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;VUI Usage:&lt;/strong&gt; Rarely&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past VUIs:&lt;/strong&gt; Google Assistant, Siri&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past Tasks:&lt;/strong&gt; Novelty tasks&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hardest Task:&lt;/strong&gt; Grocery and News&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Easiest Task:&lt;/strong&gt; Timer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;responses&quot;&gt;Responses&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Ok um, Alexa set a timer to 10 minutes.&lt;/li&gt;
+  &lt;li&gt;Ok. All right. Manage grocery…list. No that’s not going to work.
+    &lt;ul&gt;
+      &lt;li&gt;Add salt to grocery list?&lt;/li&gt;
+      &lt;li&gt;Add so-and-so to grocery list.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Um, play…music?&lt;/li&gt;
+  &lt;li&gt;List news.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;encoded-transcript-pdfpdfs05-interview-codedpdf&quot;&gt;&lt;a href=&quot;/pdfs/05-interview-CODED.pdf&quot;&gt;Encoded Transcript (PDF)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;memos&quot;&gt;Memos&lt;/h2&gt;
+&lt;p&gt;User was not confident at first with the phrase that a rationalized why it did end up working.&lt;/p&gt;
+
+&lt;p&gt;The user didn’t accomplish the task at first for task number to but did get information from the voice user interface. She use that information to craft her next response.&lt;/p&gt;
+
+&lt;p&gt;This interview the user use last conversational phrases and talked to the voice user interface more like it was a machine. This might be because of her programmer background.&lt;/p&gt;
+
+&lt;p&gt;The user gets more blunt with the last task perhaps this is confidence or lack of confidence. Does she use more machine like phrases when she isn’t sure what to say?&lt;/p&gt;
+
+&lt;p&gt;User has no current news habits this might be why the last task phrase is very vague.&lt;/p&gt;
+
+&lt;h2 id=&quot;transcript&quot;&gt;Transcript&lt;/h2&gt;
+&lt;p&gt;Chelsea: It is ok if I record this? Because I am.
+ 
+Chelsea: Awesome. So thank you so much for letting me do this. This will be quick. I’m not going to go tell you my name, you know it. What I’m doing is I’m testing it in voice user interfaces like Siri and Alexa. I have a simulation of Alexa here because she doesn’t like this Wifi. To put it simply. It will take 15 minutes. I’m going to ask you some questions first about your experience with voice user interfaces and your thoughts on them. And then I have four tasks in which prompts to talk to Alexa for you to execute. So I’m trying to measure how people create these comments. So there’s four commands for you to actually use.
+ 
+Chelsea: When we get there this is actually pretty cool you can like hold space bar and say, “what is the weather” And it acts just like Alexa. Its a little slow.
+ 
+Alexa: Right now in Seattle it’s 39 degrees with.
+ 
+Chelsea: Stop. So there it is. So we get there, whenever you’re ready to speak to Alexa, press space bar.  First, I have some questions for you. So first part is, is if you could tell me your name and tell me if it is if you give permission for me to do this recording so I have it on tape.
+ 
+Interviewee #5: OK. So my name is *** And yes you can record it.
+ 
+Chelsea: Perfect, ok, I have it forever. All right. Awesome. And you are mind me asking, can I ask how old are you?
+ 
+Interviewee #5: Twenty three. I thought for a second.
+ 
+Chelsea: I’ve legit… I’m 24 and yesterday I was like I’m 22.
+ 
+Interviewee #5: Yeah, I’m like wait hold old am I?
+ 
+Chelsea: Ok, Awesome. And I’m also going be taking notes so I know that what I have recorded. Can I also ask what type of phone do you own?
+ 
+Interviewee #5: I have a Samsung S… 7? 7, right now.
+ 
+Chelsea: Two more with voice control questions. What is your previous experience so far with voice user interfaces?
+ 
+Interviewee #5: Well, um, Oh I usually just use them just to like mess around. But like rarely ever.
+ 
+Chelsea: Yeah?
+ 
+Interviewee #5: So, yeah.
+ 
+Chelsea: OK. Awesome. What types of system have you used or what do you mess around with?
+ 
+Interviewee #5: I’ve tried it on like a phone, not my phone. I don’t know if I mean I guess it has like googling something.
+ 
+Chelsea: Google assistant?
+ 
+Interviewee #5: Yeah yeah yeah. So I haven’t tested it on my phone. I like playing around with other people’s like Siri or something.
+ 
+Interviewee #5: So I guess that is really the only one that I like tried.
+ 
+Chelsea: And you never use it on your phone?
+ 
+Interviewee #5: Mmm-mmm (no).
+ 
+Chelsea: Awesome. OK.
+ 
+Chelsea: So I guess, how familiar would you say you are with voice? This might be because your exposure with Anushay’s work and my work.
+ 
+Interviewee #5: Um, I am not totally familiar. I just mess around and like I hear the things that like, like, some voice interfaces say back but like that’s it. I don’t know any actual commands that are useful.
+ 
+Chelsea: Do remember any type of commands that you have used you so far?
+ 
+Interviewee #5: Umm… no.
+ 
+Chelsea: No? It’s in the moment, kinda?
+ 
+Interviewee #5: It was like a joke thing. Like, “Oh yeah let’s say this and see what she says.”
+ 
+Chelsea: Have you seen Lego Batman?
+ 
+Interviewee #5: No, aha.
+ 
+Chelsea: No one is a much as a child as I am! Of course I saw Lego Batman.
+  He’s like, ah, he calls his computer, “Hey ‘puter”. Just ‘puter. And Siri has if you say, you know, “Hey ‘puter” to it, it responds like you’re Batman.
+ 
+Interviewee #5: Ohhhh. yeah exactly yeah yeah.
+ 
+Chelsea: Awesome. And so you say that you use VUIs, almost never.
+ 
+Interviewee #5: Yeah.
+ 
+Chelsea: OK great. What stops you from using, uh, VUIs?
+ 
+Interviewee #5: Umm, definitely reliability. Like because I don’t trust it to do things so I just do it myself.
+ 
+Interviewee #5: Yeah that’s pretty pretty much the only reason I guess.
+ 
+Chelsea: Is it because it doesn’t know it doesn’t understand what you’re saying or can’t do what you want to do?
+ 
+Interviewee #5: Umm, I think multiple reasons like maybe it can’t do all I want to do and it’s not readily, like it’s not telling me what I can like say so I don’t know how to use it. So, I don’t like bother. Yeah.
+ 
+Chelsea: It’s like you don’t think, “Oh” like, “Oh I know I can play, like, I need to play music.”
+ 
+Interviewee #5: Yeah. So I’ll just do it. Yeah I’m going to Google to do it and then it doesn’t do it. So I’m like OK.
+ 
+Chelsea: Yes. That makes sense. Like I have this concrete method.
+ 
+Chelsea: OK great. So now I have some tasks for you to complete. I’m going to give you a prompt to read it out loud. And then after you hear the prompt, I want you to craft the way that you think that Alexa can execute that for you. So there’s scenario, a scenario for each, and then after I say it, you know take your time whenever you’re ready, hold down spacebar while you’re speaking. Say the prompt and then it will say “processing”. All right. Awesome, so your first prompt is you are boiling pasta and instructions say to boil it for 10 minutes use Alexa to help you keep track of time.
+ 
+Interviewee #5: OK um, Alexa set a timer to 10 minutes. I don’t know if that does anything.
+ 
+Alexa: 10 minutes, starting now.
+ 
+Chelsea: So did that, result meet your expectations?
+ 
+Interviewee #5: Yeah.
+ 
+Chelsea: Yeah? Um, and uh, how would you normally handle this task? In the, say, in the real world without voice control.
+ 
+Interviewee #5: I would just go into my phone and bring up the timer, or the clock app and just set it.
+ 
+Chelsea: So how did you know, how did you know to ask for a timer function for Alexa? Because it’s just.
+ 
+Interviewee #5: I don’t know. I think it might also have to do with my coding background too. Like I know that like I set certain things to just be like a timer. I don’t know.
+ 
+Chelsea: It’s a phrase you’re familiar with.
+ 
+Interviewee #5: It just feels like the right thing to say.
+ 
+Interviewee #5: Especially when talking to a computer.
+ 
+Chelsea: Yeah, you must have it! Yes you’re all just clocks. Complicated clocks.
+ 
+Chelsea: OK great. So let’s move on to the second one. Um, you realize you are out of salt and pepper. Use Alexa to manage your grocery list. Again if you have any questions ask me. When you are ready, give is a twirl.
+ 
+Interviewee #5: OK. So I’m managing a grocery list that I already have, right? OK.
+ 
+Interviewee #5: Uhhhhhh, shoot.
+ 
+Chelsea: It’s totally ok!
+ 
+Interviewee #5: She’s going to be like…what?
+ 
+Chelsea: I work with this every day.
+ 
+Interviewee #5: OK. All right. Manage grocery….list. No. that’s not going to work.
+ 
+Chelsea: Let’s see.
+ 
+Chelsea: This simulation is going to kill me.
+ 
+Alexa: You Have 14 items on your shopping list. Here are the five most recent.
+ 
+Interviewee #5: Ahhh, OK. OK.
+ 
+Chelsea: OK anyway, so it stopped.
+ 
+Interviewee #5: Ok, so I need to, what was the prompt again, I need to…?
+ 
+Chelsea: Add salt.
+ 
+Interviewee #5: Add salt. Add salt to grocery list?
+ 
+Alexa: I’ve added salt to your shopping list.
+ 
+Interviewee #5: Ohh, I like that.
+ 
+Chelsea: Where do you think the shopping list lives?
+ 
+Interviewee #5: Who knows? In the cloud?
+ 
+Chelsea: That’s correct, actually! Yeah, well this is actually my personal shopping list. It’s like how much, it has a lot of salt on it now.
+ 
+Interviewee #5: Add salt. Add salt. Add salt.
+ 
+Chelsea: But yes it does live on the cloud. So I if I can ask, why did you ask to manage grocery list first?
+ 
+Interviewee #5: Mmmm, because I guess I just didn’t know what to say so I was just going to see if she could pick that up because I don’t know manage it just seems like a word the computer might understand.
+ 
+Chelsea: Its kind of like starting a program, boot grocery list.
+ 
+Interviewee #5: Yeah yeah yeah yeah like trying to speak in words the computer might understand.
+ 
+Chelsea: Yeah. So if you had to say this again or create the phrase again would you say differently?
+ 
+Interviewee #5: I think now I might just say at so-and-so to grocery list because I know she can be that now, so.
+ 
+Chelsea: Nice, um, how do you handle this task normally? If you’re managing your grocery list.
+ 
+Interviewee #5: Um, so I have many many apps. That I make the lists on. Like it goes from Likes sticky notes on my computer to like Wunderlist which I love.
+ 
+Chelsea: I forget we are Wunderlist sisters!
+ 
+Interviewee #5: So usually just go to my shopping list in Wunderlist and put it like it a subtask.
+ 
+Chelsea: Awesome, I love Wunderlist. Not enough to pay for it though.
+ 
+Interviewee #5: Ahaha, right. The sad reality.
+ 
+Chelsea: All right, so the third question is… all right, so the third prompt is, its actually..ok…You have people over for dinner. It’s too quiet. Have Alexa play some music.
+ 
+Interviewee #5: Ummm, play…. music? I dont’ know, should I think of like a song…?
+ 
+Chelsea: You can!
+ 
+Alexa: Amazon Music is not supported for this device.
+ 
+Interviewee #5: So yeah if it was supported.
+ 
+Chelsea: Yeah, exactly, but that.
+ 
+Chelsea: Just so you know that phrase would work and what it would do is it would like randomly say “We think you like this music…”
+ 
+Interviewee #5: Yeah it would just shuffle some more songs.
+ 
+Chelsea: Yeah so ummm, what was my question for that…? So did that meet your expectations?
+ 
+Interviewee #5: Yeah. Does she, does Alexa, like…. hold other music than just Amazon music?
+ 
+Chelsea: Yes, you can link to Pandora and Spotify which is of my favorite things and listening my headphones when I walk home and then I walked to my house and pause my music and say Alexa Play and it picks up my Spotify like mid song.
+ 
+Interviewee #5: Ohhh, nice.
+ 
+Chelsea: That’s that’s really nice. But and then. So throughout this test I used to have Alexa Play your favorite song. And then people would be like, “Alexa, play my favorite song.” Then I saw like, no no no.
+ 
+Interviewee #5: Yeah yeah yeah.
+ 
+Chelsea: Um, so how do you normally handle playing music?
+ 
+Interviewee #5: I have a Spotify App actually I just click it.
+ 
+Chelsea: I  got the the Spotify student plan. That’s why I’ve been here for 7 years.
+ 
+Chelsea: OK. So you’re getting ready in the morning and you want to hear current events have Alexa catch you up.
+ 
+Interviewee #5: List news.
+ 
+Alexa: Here is your flash briefing: in things to try.
+ 
+Alexa: Help me understand your unique voice by using voice training. Go to the voice training section in the Alexa app. A brief session will help us to communicate even better.
+ 
+Chelsea: That’s going.
+ 
+Alexa: In NPR News: NPR News in Washington…
+ 
+Chelsea: So I did that meet your expectations?
+ 
+Interviewee #5: Yeah yeah it was it’s cool but she still picked it up. Yes because I was really clueless so.
+ 
+Chelsea: So what did that mean. What did Alexa tell you first?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #5: She wanted to clarify with me probably because my voice was slow.
+ 
+Interviewee #5: So she was like OK let’s not be weird when we talk to each other. And then. Yeah and then she somehow found what I was actually saying.
+ 
+Chelsea: Yeah it’s really flexible. So you said list news, if you had to rephrase that how would you?
+ 
+Interviewee #5: I feel like I would just say things because maybe she would pick that up or current news or something.
+ 
+Chelsea: How would you handle this task outside of a VUI?
+ 
+Interviewee #5: Normally it’s just something that I see on the Internet like while I was browsing. I suppose I don’t really watch news on TV.
+ 
+Chelsea: And the NPR clip is what you expected as news?
+ 
+Interviewee #5: Oh yeah I didn’t know that it would actually play like the news.
+ 
+Interviewee #5: We got that I thought she would just maybe say like this is happening here or something. So that’s awesome.
+ 
+Chelsea: Are you good on time?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #5: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: OK. Awesome. So the first thing is I just want to follow up that for most of you prompts you Alexa to do something. So this last prompt you gave a command. Why do you think this changed?
+ 
+Interviewee #5: Oh yes.
+ 
+Chelsea: So what do you think there’s a difference between asking and telling her.?
+ 
+Interviewee #5: Yes.
+ 
+Interviewee #5: I don’t know. Well actually so I thought about saying Alexa for the last time but then I was like maybe I don’t need to say that now. Oh OK. Yeah. Yes so yes so exactly like it. If you have the actual one, Alexa is what you says for her to start listening? Yeah. So that’s kind of what I thought at first but then I realized that I might not do that. So that’s why I stopped it.
+ 
+Chelsea: So what was the easy prompt for you to do and why do you think.?
+ 
+Interviewee #5: Was the first timer. Yeah definitely.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And why do you think that was easier for you?
+ 
+Interviewee #5: Because it seems like something that would be easy for a computer to do. So that’s why I was just like OK. Set the timer because you’ll probably get it.
+ 
+Chelsea: What’s your most difficult?
+ 
+Interviewee #5: Maybe the either the grocery list or the News just because I didn’t know that. Like I didn’t know if she could just pick up if I said like grocery list or manage grocery list or something like that.
+ 
+Chelsea: And so some more open questions. What do you think about voice user interfaces in general? I know you know I am researching them but you can say, “Honestly I think say are crap.”
+ 
+Interviewee #5: I mean honestly if they were better I would love it. Like I’m still considering getting it so I can just play with it.
+ 
+Chelsea: I guess you get really dependent on it.
+ 
+Interviewee #5: Yes, like it, it can be really nice and convenient.
+ 
+Chelsea: It’s a good gift because I never wanted to buy it myself. Someone bought of for me and now I’m like.
+ 
+Interviewee #5: Obsessed?
+ 
+Chelsea: And now I brought it downstairs, so I brought it here and I left if for awhile. I left it here and I finally realized it’s like I will come home and ask Alexa something I you get nothing.
+ 
+Interviewee #5: Just like…what… Alexa?? Where are you?
+ 
+Chelsea: There is one last thing for you is why do you think in general that we didn’t discuss any additional comments.
+ 
+Interviewee #5: No.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 28 Feb 2017 15:01:00 -0500</pubDate>
+        <link>http://chelmyers.com/2017/02/28/interview-05.html</link>
+        <guid isPermaLink="true">http://chelmyers.com/2017/02/28/interview-05.html</guid>
+        
+        <category>novelty</category>
+        
+        <category>unknown-features</category>
+        
+        <category>distrust-accuracy</category>
+        
+        <category>slow</category>
+        
+        <category>vui-fault</category>
+        
+        <category>confusion</category>
+        
+        <category>unconfident</category>
+        
+        <category>habit-expectation</category>
+        
+        <category>conversational</category>
+        
+        <category>habit</category>
+        
+        <category>machine</category>
+        
+        <category>user-fault</category>
+        
+        <category>lose-track</category>
+        
+        <category>leading</category>
+        
+        <category>delight</category>
+        
+        <category>assumption-correct</category>
+        
+        <category>discover</category>
+        
+        <category>misinterpretation</category>
+        
+        <category>assumption-false-intelligence</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Interview #4</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gender:&lt;/strong&gt; Male&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Age:&lt;/strong&gt; 28&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; Samsung S7&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;VUI Usage:&lt;/strong&gt; Daily&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past VUIs:&lt;/strong&gt; Alexa, Google Assistant&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past Tasks:&lt;/strong&gt; Weather, play music, timers, grocery lists&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hardest Task:&lt;/strong&gt; Timer&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Easiest Task:&lt;/strong&gt; News&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;responses&quot;&gt;Responses&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Alexa, set a timer for 10 minutes.&lt;/li&gt;
+  &lt;li&gt;Alexa, add salt to the grocery list.&lt;/li&gt;
+  &lt;li&gt;Alexa, play DMX.&lt;/li&gt;
+  &lt;li&gt;Alexa, what’s the news?
+    &lt;ul&gt;
+      &lt;li&gt;Alexa, what are recent event?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;encoded-transcript-pdfpdfs04-interview-codedpdf&quot;&gt;&lt;a href=&quot;/pdfs/04-interview-CODED.pdf&quot;&gt;Encoded Transcript (PDF)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;memos&quot;&gt;Memos&lt;/h2&gt;
+&lt;p&gt;User gets very frustrated when the VUI gives too much information and he cannot stop it.&lt;/p&gt;
+
+&lt;p&gt;So far, every interviewee has said task 1 the same way.&lt;/p&gt;
+
+&lt;p&gt;When a command is overheard, the user may repeat is blindly even though he is not familiar with the outcome.&lt;/p&gt;
+
+&lt;p&gt;User misinterpreted the flash briefly, was impatient, and stopped it all together. He assumed Alexa was more intelligent that is was and misheard his command, but was reading out menu options. Instead, Alexa was reading out the Flash Briefing (triggered by news phrase). Was this a mistake of Alexa or was the user not listening due to interview pressure?&lt;/p&gt;
+
+&lt;h2 id=&quot;transcript&quot;&gt;Transcript&lt;/h2&gt;
+
+&lt;p&gt;Chelsea: To start off, can you please state your name for me and that I have permission to record you?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: My name is *** and I give Chelsea permission to record this.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome. Thank you so much. What we’re doing today is I am looking into voice user interfaces and how we can actually benefit them in the future. Some of the questions that I have are about how you craft phrases when you interact with voice control and what previous knowledge do you depend upon if you are someone who’s new to voice control or if you have used it before. What we have today is I have a few questions for you and I have some tasks to do with Alexa. That’s why Alexa’s here. I’m keeping her muted because you know she gets really annoying when you talk about her and you don’t want to do anything with her. When we get to the task part I’ll unmute her.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: During the session, it focuses on the problems with the system and not any problems with the user, so if you find something confusing or frustrated, it’s not you. It’s the system, and that’s what we’re trying to look into. The session’s going to take about 15 minutes. I’m going to again first ask you some questions and then we’re going to do some tasks afterwards. Do you have any questions so far?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Nope. Go for it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right, awesome. The first question I have for you is, what is your previous experience with voice control and how do you use it?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: I ask Alexa the weather everyday in the morning, and maybe will ask her to play music. That’s about it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Is Alexa the only voice control that you have used so far?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: I’ve tried my phone but it’s pretty frustrating. I don’t find the Google voice interface to be very useful.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And that’s the Google Assistant, right? It’s on Android?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: For Android, yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome. So you say you do use voice control once a day, but it’s only one task. It’s the weather.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What attracts you to using voice control for this purpose, for asking for the weather?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: It’s quick. I don’t have to find the app on my phone and I can get the information while still doing other tasks.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Are there other types of commands that you’ve used with Alexa before?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: I’ll tell her to play music, set timers, make shopping lists, that sort of thing. Super basic, not a lot of in depth stuff.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And rare as well-&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yes.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: So it’s weather, which is very useful, and then other things are more sparingly as they pop up, but not part of a habit. Okay, good to know. What stops you from using voice control? You said that OK Google doesn’t really work out. What are some things that frustrate you about that?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: It’s got a bad voice to text thing. The question I ask won’t always immediately translate into the right text. If I’m driving and I tell it to text someone and say the message I want to send, it doesn’t get it right 100% of the time.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And you don’t want to send weird voice control written messages.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yeah. I can usually get the gist of the information I want from a voice command. If I ask Alexa the weather, or I’m getting directions from Google Maps, they’ll start talking and I will intuit the information. I will auto-complete it in my brain and I don’t need them to keep talking, and I want them to stop. A lot of the times I’ll tell Alexa to shut up or I will just fume at Google Maps because you can’t tell it to shut up.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That’s really frustrating. It’s like, “No, I control you, robot.”&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yes.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: “You stop when I want you to stop.”&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: I want the voice command. Yeah, okay, I get it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: “No more, please.” Like a person. You usually tell a person “stop” and they’ll sometimes listen.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: We don’t want robots in our house that are more stubborn than that. Now I would like to move on to some tasks. I have four tasks, and each task starts with a prompt which is just a scenario to envision yourself in, and then you’re going to be using Alexa to help you in this scenario. Take a moment. I’m going to give you the prompt and read it out to you and then I’m going to unmute Alexa, and whenever you’re ready, say whatever you feel will help Alexa accomplish that task.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Okay.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Any questions?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: No, I’m good.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right, great. I’m actually going to mute that because I say “Alexa.” You are boiling pasta and the instructions say boil it for 10 minutes. Use Alexa to help you keep track of this time.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Alexa, set a timer for 10 minutes.&lt;/p&gt;
+
+&lt;p&gt;Alexa: Ten minutes. Starting now.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome. Was the feedback that she gave what you expected?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yeah, pretty much. I would expect that.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You mentioned that you used that task before.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yeah. That’s one of the tasks I use most often.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Does crafting that phrase feel almost natural to you or is it something that you’ve seen other people do, or you just know, it’s intuitive?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Well, the actual function of the timer … The availability of the timer is not readily apparent unless you are familiar with the Echo. When I first got it, I didn’t know you could set a timer, but once someone showed me, it’s pretty simple and it’s a very direct command, so it’s easy for it to understand and get the correct response back.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome. All right, let’s move on to the second task which is, you realize you’re out of salt. Use Alexa to help manage a grocery list. Whenever you’re ready.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Alexa, add salt to the grocery list.&lt;/p&gt;
+
+&lt;p&gt;Alexa: I added salt to your shopping list.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right. I know that you know that task because I see you use it. I know that you use it, but do you know … You do know, but do you know other things you can do with the grocery list at all, or where the grocery list lives?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: I don’t know any of those things.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yes, it goes into the cloud.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yeah, I assume it ties in with the Echo app and you can manage it through that. I don’t personally have the Echo app on my phone.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yes.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Which you guys know by when I turn up the volume and change the music.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: It’s so weird that Alexa knows my favorite song is-&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Barbie Girl? Or no, DMX?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: DMX.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Wow, you’re going to really like the next task. Moving on. The next task is, you have people over for dinner and it’s too quiet. Have Alexa play your favorite song.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Alexa, play DMX.&lt;/p&gt;
+
+&lt;p&gt;Alexa: Playing songs by DMX from Spotify.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: There we go.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Alexa, shut up.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: No, not today. There you go. With my almighty power over here. Did that meet expectations of what you want Alexa to do?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yeah, pretty much.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And that is something that you are comfortable doing with Alexa?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Mm-hmm (affirmative).&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Now, it’s not something you wouldn’t use on your phone because it doesn’t have the capabilities, or you don’t trust the voice?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: It’s another situation where Alexa doesn’t get right actually a lot of the time. My suggestion of DMX was pretty broad. She could’ve played anything by DMX and would have been correct, but often times when I want a specific song that I don’t quite know the title of or the artist of, it won’t be able to find it at all, but it will give extremely specific examples of what it can’t find. I’ll say, “Alexa, play Bing Crosby - White Christmas” and it will say, “I cannot find Bing Crosby - White Christmas Greatest Hits 1993,” or whatever.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: It’s odd because you never said that.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: It’s odd, so it makes me think it’s a flaw in the software.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Because you’re really looking for any Bing Crosby.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yeah, and it’s leading me to believe that it has found search results and it’s just not executing my command.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah, because it heard you, it crafted similar response, and then it just tacked on something else that-&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Made it go all haywire. Awesome. I have one more task for you which is, you’re getting ready in the morning and you want to hear current events. Have Alexa catch you up.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Alexa, what’s the news?&lt;/p&gt;
+
+&lt;p&gt;Alexa: Here’s your flash briefing. In things to try, know what to expect when you’re heading out. Ask me what’s traffic like right now and I can give you real time travel information-&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Alexa, stop.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Is that what you expected?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: No.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: No?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: I’ve never used Alexa to give me hot topics or whatever, so off the top of my head, “Alexa, give me the news” was what I first thought of, and apparently that’s not a command.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What do you think it was doing instead?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: It was trying to narrow down what I wanted by giving me more specific commands. I could’ve listened to the whole menu and then crafted a correct command to get what I wanted, but I don’t know.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: If you had to rephrase that maybe, what would you say instead?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: “Alexa, what are recent events? What are the headlines on CNN?” Something like that if I wanted a specific news outlet or whatever. I don’t know.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That’s when it comes to voice control. I just have some follow up questions for you. What would you say was the easiest prompt to do out of these tasks?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Timer.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Timer, and maybe that’s because you feel more comfortable or you do that a lot?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Yeah. It’s because I do it the most.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What would you say was the hardest phrase to craft?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: Recent events&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Why would you say that is?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: I’d never done it before. I didn’t know what Alexa expected for me to get the correct results that I wanted.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What knowledge would you say you did use to finally decide on what to say for getting news?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #4: You have to realize how Alexa interprets your words. I have to figure out how specific I need to be. Specific days, specific outlets. That sort of thing.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right. Those are all the questions that I have for you. Thank you so much. You’re done at 13 minutes.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Feb 2017 15:01:00 -0500</pubDate>
+        <link>http://chelmyers.com/2017/02/22/interview-04.html</link>
+        <guid isPermaLink="true">http://chelmyers.com/2017/02/22/interview-04.html</guid>
+        
+        <category>bias</category>
+        
+        <category>convenience</category>
+        
+        <category>hands-free</category>
+        
+        <category>multitask</category>
+        
+        <category>personal-assistant</category>
+        
+        <category>distrust-accuracy</category>
+        
+        <category>frustration</category>
+        
+        <category>tmi</category>
+        
+        <category>repeat-task</category>
+        
+        <category>overheard</category>
+        
+        <category>assumption-correct</category>
+        
+        <category>vui-fault</category>
+        
+        <category>impatience</category>
+        
+        <category>unknown-features</category>
+        
+        <category>conversational</category>
+        
+        <category>lose-track</category>
+        
+        <category>misinterpretation</category>
+        
+        <category>assumption-false-intelligence</category>
+        
+        <category>habit</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Interview #3</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gender:&lt;/strong&gt; Male&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Age:&lt;/strong&gt; 25&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; Moto X&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;VUI Usage:&lt;/strong&gt; 1x-2x Month&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past VUIs:&lt;/strong&gt; Alexa, Cortana, Google Assistant&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past Tasks:&lt;/strong&gt; Play music, speech-to-text&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hardest Task:&lt;/strong&gt; Grocery List&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Easiest Task:&lt;/strong&gt; News&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;responses&quot;&gt;Responses&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Alexa, set a timer for 10 minutes.&lt;/li&gt;
+  &lt;li&gt;Alexa, start grocery list…. Salt&lt;/li&gt;
+  &lt;li&gt;Alexa, play Crystal Skull by Mastodon&lt;/li&gt;
+  &lt;li&gt;Alexa, tell me some current events.
+    &lt;ul&gt;
+      &lt;li&gt;Give me top news headlines for today&lt;/li&gt;
+      &lt;li&gt;What’s going on in the news?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;encoded-transcript-pdfpdfs03-interview-codedpdf&quot;&gt;&lt;a href=&quot;/pdfs/03-interview-CODED.pdf&quot;&gt;Encoded Transcript (PDF)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;memos&quot;&gt;Memos&lt;/h2&gt;
+&lt;p&gt;User has no desire to use VUIs and believes touch is always faster.&lt;/p&gt;
+
+&lt;p&gt;User wants to talk more conversational while in public. Are people more curt when speaking to a VUI alone?&lt;/p&gt;
+
+&lt;p&gt;Once the user knows a new command, he may look for easier ways to say it.&lt;/p&gt;
+
+&lt;h2 id=&quot;transcript&quot;&gt;Transcript&lt;/h2&gt;
+
+&lt;p&gt;Chelsea: Wonderful, wonderful. If you could first start off with stating your name for me and saying I have permission to record you.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: This is *** and I am allowing this to be recorded.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome, great. What we’re going to be doing today is we’re going to be testing voice user interfaces and talking a little bit more about them. As you know most every product has an intended use, but in reality a lot of them don’t live up to standards. The purpose of this testing is trying to see where voice interfaces are struggling and where they’re succeeding as well. What I’m focusing on is if there’s any failures of the system. It’s no way any failures of you. If you’re confused or frustrated, it’s not you at all, it’s a failure of the system. This session will take about 15 minutes. I’m going to ask a few questions about voice interfaces and then I’m going to have you complete four tasks. Do you have any questions so far?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Nope.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay, awesome. My first question is, let me set up my notes real quick. Go, I’ll write in pink for you, there we go, *** . Tell me what is your previous experience with voice control like Cortana and Siri and Alexa right here?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Very little.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What systems have you used and in what ways?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: I’ve only casually used Amazon Alexa or Amazon Echo, whatever the official name is, at friend’s houses, but I don’t own any actual devices that use voice commands. Well let me rephrase that. My phone can use voice commands but I don’t utilize them.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Have you ever used it at all on your phone?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Occasionally I’ll use it just to play music or something off of my phone, but other than that I don’t use voice texting. I don’t use any other commands. That I don’t even know what they would be.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: How would you, how many times would you say you do use voice control per week, per month, per year?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: You know, once or twice a month, if that.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right, great. What would you say stops you from using these voice devices, or on your phone, or purchasing one in general?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Well pretty much the most overriding reason is really just that I don’t need it, or at least I don’t feel like I need it. I don’t need an Amazon Echo because I don’t, based on what I know of it’s functionality, I don’t feel like I need any of it or want it for me personally.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: With your phone?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: I just, other than voice to text texting, which I assume my phone can do. I haven’t actually ever tried it even, but I just would rather type out what I want to say because it’s faster just by muscle memory of typing by this point.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: When you do use voice control on your phone or with Alexa, what are your reasons behind it?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: At this point mostly just out of curiosity or testing how it works but not really because it’s easier or anything like that.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Is it the same for when you play music on your phone?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Sometimes when I play music on my phone it’s just because I don’t feel like typing in the artists name or the album or something like that. In that case it would be because it’s easier, but the limitations are that I can only search in Google Play music, which means that I have to own the music that it searches for. As far as I know I can’t search You Tube or I can’t search other functions. Maybe I haven’t set it up properly or something.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: I’m going to begin with the tasks. I have four for you. I’m going to give you a prompt and the prompt is a just a scenario that you’re going to envision yourself in. You’re going to hear the prompt and you’re going to draft a phrase to have Alexa help you out with it. We’re going to do one prompt at a time. Do you have any questions?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: No.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay, all right, great. When I’m done saying the prompt I’m going to unmute Alexa because it’s kind of annoying with her listening constantly, and then whenever you’re ready you can say whatever you feel you need to say to accomplish the task.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Okay.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right, so the first prompt is, you are boiling pasta and the instructions say to boil it for 10 minutes. Use Alexa to help you keep track of this time.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Alexa …&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Sorry go on.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Alexa, set … are you still listening I can’t tell, the light is freaked out. Alexa, set a timer for 10 minutes.&lt;/p&gt;
+
+&lt;p&gt;Alexa: Ten minutes starting now.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Did that match your expectations of what Alexa would do?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Pretty much.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: How did you know how to Alexa to do that?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: I figured that the more straight forward the command would be, so if you want something to set a timer, set a timer for 10 minutes, is really the most straight forward I figured you could get without sounding like an idiot.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Have you used …&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Create timer 10 minutes.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: …Google search.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Have you used that type of function with voice control before?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Not really. I’ve seen other people use it but I haven’t.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right, let’s move on to the next prompt. Next prompt is, you realize you are out of salt, use Alexa to manage a grocery list.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Alexa, start a grocery list.&lt;/p&gt;
+
+&lt;p&gt;Alexa: What should I add?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Salt.&lt;/p&gt;
+
+&lt;p&gt;Alexa: I’ve added salt to your shopping list.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You sounded a little surprised there. Tell me about that?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Well it’s based on the fact that everything that I say has to be programmed for it to be able to respond to. I assume that start a list or a note or something would be a function, but it didn’t know if it would recognize the word grocery.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Did it’s feedback match what you were expecting?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Yeah. I’m glad that it clarified that it’s, well I also liked that it immediately said, “What should I add?” Instead of just ‘All right, I made a grocery list’ and then me having to say separately, “All right, add salt to my grocery list.”&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Why did you chose to ask to start a grocery list? Instead of just saying another phrase instead like, automatically saying add pepper.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: I don’t know, I assumed that if I said, “Add salt,” with no context that it wouldn’t necessarily know what I was talking about. Plus I wanted to make sure that I knew that it was doing what I was wanting it to do, rather than just assuming. I didn’t want to just say, “Add salt,” and then have to like back track because it didn’t work or something like that.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Where did you think this grocery list lives?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: I assume that there’s some sort of account linked to my Amazon account, linked to the device or something like that, and that there’s cloud storage associated with my Amazon account in some manner.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You’d be right with that. If you were to rephrase that, or would you ask, would you, or would you ask the question the same way.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Ask Alexa the same thing?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: I mean I guess I would just see what happens if I said, if I was just testing it out for the first time, I would probably just say ‘create a list,’ or something. Or ‘create a shopping list’ instead of a grocery list and see if it needed to be a simpler command, or a more general command, I mean, not necessarily simpler, but less specific just in case it didn’t get that detailed.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Do you manage any grocery lists, or shopping lists, or lists at all yourself with tools in your smartphone or on your computer?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: I basically just have, use Google Keep to create notes and reminders for some things.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. All right.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: But I manually type all of those.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What is your process when you’re creating something with Google Keep?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Well I have to open the app and then I either find an existing note such as ‘To do’ or like ‘stuff to do for my class’ or something like that, and then just continue adding things onto the already existing list.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay, awesome. Third question, or prompt. You have people over for dinner and it’s too quiet, have Alexa play your favorite song. You can take time to think of these if you want to or you could just…&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Do I have to actually play my favorite song?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah. Play your favorite song.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Cool, I see. Alexa, play Crystal Skull by Mastodon.&lt;/p&gt;
+
+&lt;p&gt;Alexa: Crystal Skull by Mastodon from Spotify.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right, so was that response appropriate?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Yeah, I mean that was the correct song. Although I didn’t know immediately if it would be able to find it because I didn’t know, A: if it was going to be looking just on Spotify or B: if it would hear me saying the name of the track or the artist correctly.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Is the way you crafted that response similar to the way you ask your phone to?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Yeah pretty much. I mean there are some times where I doesn’t work, or it will start playing like a Google Radio version instead of the copy that I actually own in my library or something like that.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right, good. We have one last prompt and it is, you are getting in the morning and you want to hear current events, have Alexa catch you up.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Alexa, tell me some current events.&lt;/p&gt;
+
+&lt;p&gt;Alexa: Here’s your flash briefing.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Wow sounds official.&lt;/p&gt;
+
+&lt;p&gt;Alexa: And things to try and make a great kitchen companion. I can help with conversions like how may teaspoons in a tablespoon or how many pints in a gallon. Your dinner guests will be very impressed. In NPR news from TuneIn.
+Speaker 4: Live from NPR news in Washington, I’m Jack Spear. The Trump administration is rescinding a public guidance for public schools&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Alexa, stop. Did that meet, was that something you were expecting or how did that …&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Well I was slightly confused because it started telling me features of it, as a product, which I really didn’t expect it when I was asking for current events. Maybe, I don’t know, I just didn’t consider that to be a current event. Apparently there’s some sort of feature called Flash, News Flash or something, I forget what it said, which I didn’t know that was an official feature. And I also didn’t expect it to start just playing NPR. I thought it was going to give me a list of important headlines or something. Not necessarily, literally just start playing the most popular NPR article or something.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Why do you think you would expect headlines or just titles of, or summaries of…&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: That’s just semantically or whatever you want to use, casually just current events usually means like important news and not really getting into the details. Like if I said, the Syrian War is a current event, but I don’t want to like have every …blow by blow explained to me before I hear any other headlines or something like that.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: If you had to ask that again or rephrase it, what would you might say?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Maybe ‘give me top news headlines for today’ or ‘what’s going on in the news’ or something like that just to see if that makes it approach it differently or something.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay, so that’s it for tasks. I have a few follow up questions. First of all, what prompt did you find the easiest to do and why?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: To be honest the grocery store one is probably the easiest. When I think of asking a computer essentially, to do something I usually associate that with simple management tasks more than like necessarily having a conversation, quote, unquote, telling me the news or stuff like that. I don’t know asking a voice control thing to make me a list or a timer, it’s seems more suited to a computer thing.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. What would say was the hardest task or the most difficult to think of a way to say?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Well I mean I guess the news was the most difficult because it could be asked, that type of question could be asked in a lot of different ways, and unless you have a manual or something to know what to say in advance it might not be clear. I mean the music one wasn’t hard, but again, if you’re asking for a specific song or a specific artist that is pronounced, that’s like weird sounding or something, then it might be tedious to try to get it to recognize what you’re saying. Not that mine was but …&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Do you have any extra comments or thoughts about voice control in general, like how do you think it’s going to be incorporated into our lives in the future?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Oh is that the ten minute timer? From before?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yep.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: What was I going to say? I guess I’d assume more things that already exist will have it added into them, like car consoles, I don’t know, just every day electronic items that might need commands but don’t have voice commands currently, but I don’t really foresee that many products dedicated solely to voice stuff like Echo, are there even any other ones?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Google Home.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Oh yeah, Google Alexa.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah, that’s about it.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: But maybe not, this one might be a dumb example, but add it into a microwave as a thing rather than making a new device.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: To manage your microwave.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay, all right. That’s all I have for you. Thank you so much for doing this. You can now go watch Batman.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #3: Hooray. Cool.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Feb 2017 15:01:00 -0500</pubDate>
+        <link>http://chelmyers.com/2017/02/22/interview-03.html</link>
+        <guid isPermaLink="true">http://chelmyers.com/2017/02/22/interview-03.html</guid>
+        
+        <category>bias</category>
+        
+        <category>unknown-features</category>
+        
+        <category>no-desire</category>
+        
+        <category>novelty</category>
+        
+        <category>slow</category>
+        
+        <category>laziness</category>
+        
+        <category>user-fault</category>
+        
+        <category>visual-feedback</category>
+        
+        <category>public-acceptance</category>
+        
+        <category>overheard</category>
+        
+        <category>delight</category>
+        
+        <category>assumption-false-ineptness</category>
+        
+        <category>specific</category>
+        
+        <category>assumption-correct</category>
+        
+        <category>habit</category>
+        
+        <category>habit-expectation</category>
+        
+        <category>repeat-task</category>
+        
+        <category>confusion</category>
+        
+        <category>tmi</category>
+        
+        <category>personal-assistant</category>
+        
+        <category>distrust-accuracy</category>
+        
+        <category>conversational</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Interview #2</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gender:&lt;/strong&gt; Male&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Age:&lt;/strong&gt; 24&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; iPhone 6s&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;VUI Usage:&lt;/strong&gt; Daily&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past VUIs:&lt;/strong&gt; Siri, Alexa&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past Tasks:&lt;/strong&gt; Alarms, timers, play music&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hardest Task:&lt;/strong&gt; Grocery List, news&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Easiest Task:&lt;/strong&gt; Timer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;responses&quot;&gt;Responses&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Alexa, set a timer for 10 minutes.&lt;/li&gt;
+  &lt;li&gt;Alexa, add salt and pepper to a grocery list.&lt;/li&gt;
+  &lt;li&gt;Yo, Alexa, play some party vibes.
+    &lt;ul&gt;
+      &lt;li&gt;Alexa, play some happy tunes&lt;/li&gt;
+      &lt;li&gt;Hey Alexa, play some disco&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Alexa, what’s happening in the world?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;encoded-transcript-pdfpdfs02-interview-codedpdf&quot;&gt;&lt;a href=&quot;/pdfs/02-interview-CODED.pdf&quot;&gt;Encoded Transcript (PDF)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;memos&quot;&gt;Memos&lt;/h2&gt;
+&lt;p&gt;User will use GUI over VUI is the device has a screen and is already in hand. Why is this? Is it a trust issue? User notes they do not what to disrupt what they are currently doing.&lt;/p&gt;
+
+&lt;p&gt;Bias from assuming Alexa has same features as Siri.&lt;/p&gt;
+
+&lt;p&gt;When using commands that are new, users are delighted when it works.&lt;/p&gt;
+
+&lt;p&gt;Alexa actually never turned on for first attempt at task 3. User missed this since they were not looking at Alexa. User assumed Alexa did not understand his phrase then.&lt;/p&gt;
+
+&lt;p&gt;When VUI fails, user often think they need to be more specific to get it to work.&lt;/p&gt;
+
+&lt;p&gt;User believes news should presented like headlines. This is also how he reads it habitual right now.&lt;/p&gt;
+
+&lt;h2 id=&quot;transcript&quot;&gt;Transcript&lt;/h2&gt;
+
+&lt;p&gt;Chelsea: Hello. Hello, &lt;em&gt;**&lt;/em&gt;. Thank you for coming in. My name is Chelsea. I’m a researcher for Voice User Interface and I’m going to walk you through a session today. Before we start, I have some more information for you about what we’re doing.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: We’re currently testing voice user interfaces of VUI’s like Siri, Cortana, Alexa to learn as much as we can about the way people use it. Every product is intended to work in a certain way by it’s creators but, as you know in reality, it doesn’t always mean that’s how people perceive it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: The goal of this research is to get our product as close to the reality as possible. This session focuses on how people use VUI’s and it’s not a test of your skills at all. If something doesn’t make sense, it’s a failure of the system, not a failure of you.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: This session will take about 15 minutes. I’m going to ask you a few questions and then I’m going to have you complete some tasks with Amazon Alexa that I have it muted right now so she doesn’t listen to us.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: With your permission, I’m going to record this session via audio and I wanted to make sure that I have your permission to do this so if you could please state your name is let me know if I have consent.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: My name is *** and you have consent from me.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Thank you.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Am I being recorded right now like we did?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yes.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Okay. Just making sure.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Great! I’m asked to record. It will give us the full picture of this session when we look back onto it in the future. We’re not going to share these recordings outside with any team of people who are working on-&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Okay, cool.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Great! Now I would like to ask you a few questions. The first one is, what is your previous experience with voice control?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: I just use Siri and then I sometimes use Alexa.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What are the tasks that you do with Siri and with Alexa?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: I mainly just ask Siri to set an alarm and then for Alexa, I just ask her to put on a song.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: How familiar would you say you are with these types of voice control systems?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: I guess I’m familiar in that I know that they exists but I’m not familiar with the extent of what I could do with them.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: How often, maybe, would you say you use them per week?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Siri, I use pretty much every night.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And Alexa?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Alexa is only when I’m visiting you.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What attracts you to doing these tasks with voice control in the first place?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: For using Siri, it’s easier to, I guess, instead of having to press everything and also if I’m already about to go to bed, I’d rather not look at a screen. It’s just convenient that I can set an alarm that way. For Alexa, I guess since she’s already hooked up to play music, it’s easier than trying to go through a playlist and find a song or just YouTube it or something.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What would you say stops you from using voice control? Why might you set an alarm with using your smartphone, using touchscreen, or playing music manually instead of using voice?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: If Siri doesn’t have enough battery so on low battery mode you can’t talk to her and maybe if I’m already using my phone and as I … “Oh yeah, I should probably just set an alarm,” so instead of stopping what I’m doing to do the voice command, I’d just rather do it manually. For Alexa, it’s convenient and I guess it’s a good way to announce to the room because when I use Alexa, it’s mostly because I’m with other people. It’s a good way to announce what song you’re about to play and you can put on a stupid face when you finish the sentence.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: I now have some tasks for you to do. I’m going to give you a prompt, a task, and each prompt is a scenario in which you will use Alexa to help you. It’s a pretend scenario. After you hear each of these prompts, I would like you to craft a phrase and ask Alexa to carry it out.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Okay.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: We’re going to do one prompt at a time and whenever you are ready to speak to Alexa, just click the unmute button right here and then you can talk to her. Your first prompt is you were boiling pasta and the instructions say to boil it for 10 minutes. Use Alexa to help you keep track of this time.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Okay. I’m ready.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Great.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Oh yeah. I didn’t have to say that. Alexa, set a timer for 10 minutes.&lt;/p&gt;
+
+&lt;p&gt;Alexa: 10 minutes. Starting now.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Great! Okay. What knowledge do you use or how did you feel comfortable with using that phrase?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Super comfortable.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Because I know, I guess these voice commands or what was it BUI’s-&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Voice User Interfaces. Yes, VUI’s.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: I guess are they able to keep track of time so I’m aware of that and it’s pretty comfortable for me to say set a timer or set an alarm so anything regarding time is pretty comfortable to create a command for.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You trusts that the system can actually carry those out?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome! Let’s move on to the second task. You realize you are out of salt and pepper. Use Alexa to manage a grocery list.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Okay.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Whenever you’re ready, unmute her.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: What am I missing again? Eggs?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Salt and pepper.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Salt and pepper. Alexa, add salt and pepper to a grocery list.&lt;/p&gt;
+
+&lt;p&gt;Alexa: I put salt and pepper on your shopping list.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Hell yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Great! Did Alexa do what you expected?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Yes.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right. Where do you think this grocery list lives?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: I have no idea. I’ve just seen you use it but I have no idea where it goes to. I’m guessing that it’s attached to someone’s phone or it just makes a document. Maybe she has an app. I don’t know.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yes, that would be correct. It does go to an application that you can check in. Would you say you crafted that sentence then because it is something you’ve seen me do or … Yeah?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Yeah. Otherwise, I would have no idea that … I had no idea that I might be able to ask Siri to put something or write a note. That’s from, I guess, indirect use of Alexa.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: There was some hesitation in your prompt as well. Is that you were just hoping you were saying it right? What was that slight pause?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: When?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You’re like … What you said. You were, “Alexa, add salt and pepper to my grocery list?” You went up a little bit in your… Was it just you weren’t sure it would work?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: She repeated the phrase shopping list and I said grocery list because I wasn’t sure if … I guess it was like, “Is this the right terminology to use,” or just, I guess, repeating what the prompt was asking.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Great. Prompt number three. You have people over for dinner and it’s too quiet. Have Alexa play a song.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Yo Alexa, play some party vibes. I guess that didn’t work.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You want to try again?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Alexa, play some happy tunes.&lt;/p&gt;
+
+&lt;p&gt;Alexa: Christmas Cocktails from Spotify.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Okay.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Alexa, stop.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Actually, that’s not too bad. That sounds pretty classy.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Did Alexa do what you expected?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Kind of. She started playing music. I was expecting her to play music but I was hoping that my initial command would’ve been picked up. It was just…&lt;/p&gt;
+
+&lt;p&gt;Chelsea: If you had to rephrase that, how would you say it?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: The yo, Alexa one?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: This prompt. Yeah.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Like a task?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: No. How would you-&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: If I had to talk to Alexa again, what would I say?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: To play, yeah.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: I’d probably specify it like a genre so I don’t end up with Christmas music.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yes. Why don’t we try that again? Why don’t you ask Alexa to play your favorite song?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Hey Alexa, play some disco.&lt;/p&gt;
+
+&lt;p&gt;Alexa: Disco from Spotify.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Hell yes.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Alexa, stop. All right. Awesome. Was that a little closer to what you were expecting?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Yes.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Great. Now we’re on to the last prompt. You are getting ready in the morning and you want to hear current events. Have Alexa catch you up.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: All right. Alexa, what’s happening in the world?&lt;/p&gt;
+
+&lt;p&gt;Alexa: Here’s your flash briefing. In things to try, did you know you can send feedback at any time through the Alexa app? Just go to the “help in feedback” section and share your thoughts at any time. In NPR News from TuneIn …
+Shay Stevens: Live from NPR News in Washington, I’m Shay Stevens. President Donald Trump is denouncing recent threats against Jewish community centers.
+Pres. Trump: The anti-sematic threats targeting our Jewish-&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Stop. Did that meet your expectations?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Not quite.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: How’s so?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: I guess I was looking for more briefings as in “Here’s a list of stuff that’s happened,” and it would just give me headliners and then maybe if I there was a topic that intrigued me, I would be like “Hey Alexa, find out more on … “ and then the name of the headline.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: That’s how you would ask about a specific news event? Correct?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Yeah. If I want to specify but if I just wanted to find out what was kind of going on like the highlights so it’s not like I would care about every single thing going on but maybe some things catch my interest like I guess currently in my iPhone if I swipe to the left from the home screen, I just have a newsfeed of just stuff that’s happening and then there’s also just “Seven Things You Need to Know for Your Monday” type stuff.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Great. I have just some followup questions for you. First of all, did any of these tasks feel more difficult than the others?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: No. I think it was not difficult. It was just different comfort levels. It’s just I know that I can play music but I guess in terms of asking for something to be added to a grocery list or finding out current events, those were things that for the most part I haven’t asked any VUI to do for.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What prompt would you say was the easiest to do and why?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Just setting a timer because, again, I was just familiar with it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: You felt comfortable doing that?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: But that just means you do it every day.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Yes. I do it every day.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: I have no more questions for you. Do you have any comments in general about voice control that come to mind when you think of it?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Do these things normally come with instruction manuals and what you can ask of is that something you’d find by yourself because … ?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yes! They normally do. Alexa, for example, has an app and a paper manual. Siri has a list, a command list you can bring up and you can check out. I don’t know about Microsoft’s Cortana or Google, Okay, Google but do normally they come with some type of visual way to help or a audio training tutorial as well. Alexa, actually in the getting news event was like, “this is what’s new with me.” It takes a while to get to actual news. It could be a detriment because she’s like, “This is what’s new with Alexa skills,” and it’s not really what you asked for-&lt;/p&gt;
+
+&lt;p&gt;Interviewee #2: Yeah, that was kind of weird. I initially was excited because I thought she understood the command and I was kind of thrown off when she started talking about this is stuff that I can do when you can refer to the app to figure out more. That’s not what I thought. But yeah! Not really any other questions with VUI.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome! Then that is all.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Feb 2017 15:01:00 -0500</pubDate>
+        <link>http://chelmyers.com/2017/02/21/interview-02.html</link>
+        <guid isPermaLink="true">http://chelmyers.com/2017/02/21/interview-02.html</guid>
+        
+        <category>personal-assistant</category>
+        
+        <category>bias</category>
+        
+        <category>unknown-features</category>
+        
+        <category>convenience</category>
+        
+        <category>no-sight</category>
+        
+        <category>hands-free</category>
+        
+        <category>slow</category>
+        
+        <category>disrupting</category>
+        
+        <category>lose-track</category>
+        
+        <category>trust</category>
+        
+        <category>delight</category>
+        
+        <category>repeat-task</category>
+        
+        <category>overheard</category>
+        
+        <category>confusion</category>
+        
+        <category>unconfident</category>
+        
+        <category>leading</category>
+        
+        <category>vui-fault</category>
+        
+        <category>misinterpretation</category>
+        
+        <category>specific</category>
+        
+        <category>tmi</category>
+        
+        <category>habit-expectation</category>
+        
+        <category>habit</category>
+        
+        <category>unconfident</category>
+        
+        <category>conversational</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Interview #1</title>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gender:&lt;/strong&gt; Male&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Age:&lt;/strong&gt; 25&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; iPhone 6&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;VUI Usage:&lt;/strong&gt; Daily&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past VUIs:&lt;/strong&gt; Siri, Alexa&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Past Tasks:&lt;/strong&gt; Weather, speech-to-text, timers&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hardest Task:&lt;/strong&gt; News&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Easiest Task:&lt;/strong&gt; Music&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;responses&quot;&gt;Responses&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Alexa, set timer for 10 minutes.&lt;/li&gt;
+  &lt;li&gt;Alexa, remind me to buy salt and pepper.&lt;/li&gt;
+  &lt;li&gt;Alexa, play my favorite song.
+    &lt;ul&gt;
+      &lt;li&gt;Alexa, play Happy Birthday&lt;/li&gt;
+      &lt;li&gt;Alexa, play me some music that I would like&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Alexa, what are the top news stories today?
+    &lt;ul&gt;
+      &lt;li&gt;Alexa, read me the sports news from today.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;encoded-transcript-pdfpdfs01-interview-codedpdf&quot;&gt;&lt;a href=&quot;/pdfs/01-interview-CODED.pdf&quot;&gt;Encoded Transcript (PDF)&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;memos&quot;&gt;Memos&lt;/h2&gt;
+&lt;p&gt;User distrust the accuracy of VUI. They generally believe they have a low accuracy. This is based on their experience and assume it applies to all other users.&lt;/p&gt;
+
+&lt;p&gt;People don’t know what they can say and it takes too long for them to look it up. They rather just use a GUI.&lt;/p&gt;
+
+&lt;p&gt;Phrases might be biases off use of Siri.&lt;/p&gt;
+
+&lt;p&gt;To-do list is used over grocery list. Is grocery list an unknown feature of Alexa? Do they use to-do list because it something they use already.&lt;/p&gt;
+
+&lt;p&gt;User could has just decided to repeat the prompt for task 3.&lt;/p&gt;
+
+&lt;p&gt;Perhaps TMI is related to habits. The baseline information is what they are used too. TMI occurs when it is more, or too different that their habit.&lt;/p&gt;
+
+&lt;p&gt;After news report is too long with task 4, user think that is their fault and they should have been more specific.&lt;/p&gt;
+
+&lt;h2 id=&quot;transcript&quot;&gt;Transcript&lt;/h2&gt;
+&lt;p&gt;Chelsea: Okay. Awesome. Hi. Thanks for coming. My name is Chelsea and I’m researching voice control right now. I’m going to walk you through what we’re going to do today. Right now, we are currently testing voice user interface or VUIs, to learn as much as we can about the way people use them. Every product is intended to work in a certain way by it’s creators, but as you know the reality might be quite different. The goal of this research right now, like this session, is to get us as close to valuable as possible. This session focuses on how people use voice user interfaces and it is not a test of your skill at all. If something doesn’t make sense it’s a failure of the system, it’s not a failure of you. This session should take about 20 minutes. First I’m going to ask you a few questions about your voice user interface experience and then we’re going to complete some tasks using Amazon Alexa. I have it muted right now, so it can’t hear us and start up.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Okay.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: With your permission I’m going to record this session as well. This will give us a few, a full picture of the session as I record I can look back at the notes. It will not be shared publicly online. Are you okay with this session being recorded?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Yes.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. Awesome. All right. Now, if you don’t mind I’d like you to sign this invisible permission form and since you don’t have that could you please again say that you give consent?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: I give 100% consent that this is recorded.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: And your name?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: My name is &lt;strong&gt;* **&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome. Great. Some questions that I have for you. First off is, tell me a little bit about your previous experience with voice user interfaces.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: I don’t have too much experience, but I think that I have about an average person’s experience. I have Siri on my cell phone that I use occasionally to set things like timers and alarms and maybe I ask the weather. I also own an Amazon Alexa which is, it’s been fun. I ask about the weather and things like that.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome. How would you define an average person’s use?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: An average person’s use might use I guess voice control maybe once every two days and I would say they are probably pleased with it half the time.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Mm-hmm (affirmative) Like a 50% accuracy rate or 50% like understanding.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: It’s probably both. It’s probably both. Sometimes they might be dissatisfied with the accuracy of it and that’s why they stopped using it and then they tried to use it again and they realized, “oh yeah, I forgot why I didn’t use this.” Cause it wasn’t accurate or they forget about it or sometimes they are faster at doing it manually.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Again, how often would you say you use these type of VUIs?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Personally I use them, I actually use them every day to ask the weather in the morning cause I have Alexa. While I’m walking or driving I might use Siri to compose a text.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Excuse me. What attracts you to voice user interfaces? What makes you think of using them in the first place?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: It’s hands free. Which is a big thing so, you can do things like walk around and you don’t have to look down at your phone or while you’re getting ready for the day. Like putting on your clothes or you know, getting your hair done or whatever in the morning. You can ask for the weather. It’s kind of like talking to someone.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What stops you from using voice user interfaces for certain tasks?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: I think it’s the, you’re not always sure what you’re able to ask. You know, it’s not like you normally study a glossary of terms that the system knows already so, you have a few things that you know it can do, but in your day to day life you don’t have time to like look it up. By the time you’ve looked it up it’s already time that you could have spent doing it manually. Sometimes you don’t know what you can ask or what it’s capable of doing without spending a lot of time.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Would that be why for a reason you look up the weather on your phone instead of asking Alexa? What causes situations like that where you use a touch screen device over voice?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Sometimes it’s faster. For instance, on my phone all I have to do is you know, swipe left for Apple. I can see a snapshot of the weather. Sometimes if I’m with let’s say, you know I’m in a house that’s quiet, I don’t want to wake up people in the house maybe in the morning with a big voice recording. Not voice recording, but a big speaker. That’s part of it. It’s silent. It’s quick and if, I can check the weather from my bed while I’m in bed before I even get out. Which is nice.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome. All right. Great. Now, I have some tasks for you to complete. I’m going to give you a prompt and each prompt is a scenario in which you will use Alexa to help you. After you read or actually in this case you hear the prompt, I’m going to read it for you, craft your phrase and ask Alexa to help you. We’re going to do one prompt at a time. Do you have any questions before we start?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: No. I think I get it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. Awesome. And also I’m going to need to unmute Alexa so, it can hear you. If you could wait until I unmute. That would be wonderful.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Okay.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right. Here’s your first prompt. You are boiling pasta.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Mm-hmm (affirmative)&lt;/p&gt;
+
+&lt;p&gt;Chelsea: The instructions say boil it for 10 minutes. Use Alexa to help you keep track of this time.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Alexa, set a timer for 10 minutes.&lt;/p&gt;
+
+&lt;p&gt;Alexa: 10 minutes starting now.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Awesome. How did you know or what knowledge did you rely on to ask Alexa that?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Well, I’ve been preconditioned with Siri. I knew I could do that with Siri and I figured that it has an inner clock I guess so, I knew I wanted to use the word timer and set. Cause you set timers. I intuited it that way I guess.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. Let’s do the second prompt.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Okay.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. You realize you are out of salt and pepper. Use Alexa to manage a grocery list.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Alexa, remind me to buy salt and pepper.&lt;/p&gt;
+
+&lt;p&gt;Alexa: I’ve put buy salt and pepper on your to do list.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Was that action expected?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Yeah. I guess it was. I’m happy that it put it on my to do list instead of asking me when to remind me. I wonder if I could have said, “remind me tomorrow to buy salt and pepper.” Adding it to my to do list is pretty good. I’m pretty pleased with it.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: How would you expect to retrieve this to do list?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: I guess I’d like to see it on my, added to apps that I already use like if it could add it to my Google calendar or if it could send it straight to my phone. You know, like with a text. That’d be kind of nice or a notification of some kind.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Why did you ask Alexa to remind you?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Cause I wasn’t sure whether I could ask it to put it on some sort of like list that I had or whether I had to, I don’t know, ask it to send me a reminder, so I figured it could just remind me. Like ping me or something.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: All right. Great. Third prompt. You have people over for dinner and it’s too quiet. Have Alexa play your favorite song.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Alexa, play my favorite song.&lt;/p&gt;
+
+&lt;p&gt;Alexa: Shuffling your music.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Alexa, stop. That’s not my music. All right. How did you feel about that? Why, how did you craft that phrase?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Well, I think maybe the question you asked implanted a little bit on me. I wasn’t really thinking straight. I would have asked it, too much pressure. Just kidding. I know that from my Alexa I know that it’s connected to Amazon music and I can also connect it to my Spotify. I figured it would take music that it knows I liked from those accounts and either maybe it could pick the metrics of my most played song or songs that I’ve you know, thumbs upped or something.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. If you had to craft that phrase again, what maybe would you say?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: I might, well I if I knew my favorite song of the top of my head, I would ask for it by name. I would say, let’s say it’s Happy Birthday. I’d say, “Alexa, play Happy Birthday.” But if I wanted to hear something that I liked I might say, “Alexa, play me some music that I would like.”&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Great. All right. Last part. You are getting ready in the morning and you want to hear current events. Have Alexa catch you up. Do you have any questions about this prompt?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: No, let me just think about how to craft my question for second.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. When you’re ready you can unmute her yourself.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Okay. Okay. I think I’m ready. I’ll unmute it and I’ll ask the question. Alexa, what are the top news stories today?&lt;/p&gt;
+
+&lt;p&gt;Alexa: Here’s your flash briefing. In things to try, People caring for family members may find me helpful. Some tasks I can assist with are reading audio books, creating shopping lists and playing music. You can also set up repeating alarms to help remember to do things at a specific time.
+	In NPR news from Tune In. Live from NPR news in Washington, I’m Shae Steven.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Stop. I’ll mute it again.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: How do you feel about that response you received from Alexa?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: It felt a little long and I wasn’t sure what was happening. Part of it was her cadence was a little slow. It could have been the news story that she happened to choose.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Was the information you retrieved, what you wanted?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Not as quick as I wanted it. I wonder if I could have phrased my sentence to be more pointed like, “Alexa, tell me the political news or tell me the sports news.” Maybe I could have said something like that.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Mm-hmm (affirmative) Again, if you had to rephrase that, what would you maybe do? Say it again.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: That news question?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Mm-hmm (affirmative)&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: I would say, “Alexa, read me the sports news from today.”&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Great. Awesome. I have some follow up questions for you. Out of these tasks, was there any of them that stuck out in terms of difficulty?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: The news one was hard. It’s a little more ambiguous because the subject can vary so much and then she also has to read so much back to you. Yeah.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Any others?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: It’s hard to know how to interact with Alexa or voice control when you want to be reminded of something. Cause sometimes you want to be reminded for different reasons you know. Like I’ll actually, I gotta remember to count my calories, but it can also be more specific like, when I’m out tomorrow after work I need to make sure that I don’t forget you know diapers. There’s a lot of variables there so, that one’s hard I think.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: What was the easiest prompt to do?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: The easiest one was the music because if I knew my favorite song I could ask for it directly if I wanted to.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Do you think Alexa knows your favorite song?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Based on my music profiles?&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Based off of, whatever you believe.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: I think it has access to it and yeah, I’m confident that if I asked for a specific song it could bring one up.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: But, your favorite. As in like, does Alexa know?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Does Alexa know my favorite? I think it could guess, but I don’t think it knows unless it was, unless I told it. You know, unless there was some sort of Amazon ranking system that I would have to go manually into the website and say, “this is my favorite song.” Like, I know that you can tell Siri that certain contacts have a certain relationship with you. You can tell Siri like, you know, Ann Smith is my mom. Then when you say, “call my mom”. It, I think it should call Ann Smith.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Yeah. It does do that. That’s all the questions I have for you. Do you have anything in general you would like to say about these voice control products?&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: I guess not.&lt;/p&gt;
+
+&lt;p&gt;Chelsea: Okay. Awesome. Well, then that you so much for your time.&lt;/p&gt;
+
+&lt;p&gt;Interviewee #1: Thank you.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 21 Feb 2017 15:01:00 -0500</pubDate>
+        <link>http://chelmyers.com/2017/02/21/interview-01.html</link>
+        <guid isPermaLink="true">http://chelmyers.com/2017/02/21/interview-01.html</guid>
+        
+        <category>personal-assistant</category>
+        
+        <category>distrust-accuracy</category>
+        
+        <category>novelty</category>
+        
+        <category>slow</category>
+        
+        <category>hands-free</category>
+        
+        <category>public-acceptance</category>
+        
+        <category>assumption-correct</category>
+        
+        <category>bias</category>
+        
+        <category>delight</category>
+        
+        <category>assumption-incorrect</category>
+        
+        <category>assumption-false-intelligence</category>
+        
+        <category>leading</category>
+        
+        <category>repeat-task</category>
+        
+        <category>conversational</category>
+        
+        <category>pressure</category>
+        
+        <category>vui-fault</category>
+        
+        <category>user-fault</category>
+        
+        <category>unknown-features</category>
+        
+        <category>convenience</category>
+        
+        <category>specific</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

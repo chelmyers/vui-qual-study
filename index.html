@@ -1,0 +1,611 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>VUI Qualitative Study | Think Before You Speak</title> 
+  <meta name="description" content="Chelsea Myers is a front-end developer located in Philadelphia. She is a developer at Happy Cog, co-founder of Coffeebot Studios, and published author.
+">
+
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="canonical" href="http://chelmyers.com/">
+  <link rel="alternate" type="application/rss+xml" title="Chelsea Myers" href="http://chelmyers.com/feed.xml">
+
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Mono:400,700' rel='stylesheet' type='text/css'>
+
+  <script>
+
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-47835977-1', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="/favicons/favicon-32x32.png" sizes="32x32">
+  <link rel="icon" type="image/png" href="/favicons/android-chrome-192x192.png" sizes="192x192">
+  <link rel="icon" type="image/png" href="/favicons/favicon-96x96.png" sizes="96x96">
+  <link rel="icon" type="image/png" href="/favicons/favicon-16x16.png" sizes="16x16">
+  <link rel="manifest" href="/favicons/manifest.json">
+  <link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#5bbad5">
+  <meta name="apple-mobile-web-app-title" content="chelmyers">
+  <meta name="application-name" content="chelmyers">
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="msapplication-TileImage" content="/mstile-144x144.png">
+  <meta name="theme-color" content="#ffffff">
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+  <a class="site-title" href="/"><h1 class="logo">chelmyers</h1></a>
+</header>
+
+
+    <main class="content">
+          <section class="col">
+    <h1>Think Before You Speak: <br/>Approaching Voice User Interfaces</h1>
+    <p>The purpose of this study is to better understand how users initially approach a new VUIs and craft commands. The study is guided by the following questions:</p>
+    <ol>
+      <li>RQ1: What biases affect a user’s initial use of a VUI?</li>
+      <li>RQ2: How does a user craft an unknown command for a VUI?</li>
+      <li>RQ3: What incentives/deters user to use VUIs?</li>
+    </ol>
+
+    <hr>
+  </section>
+
+
+
+  <section class="col">
+    <h2>Coding</h2>
+
+    <h3>Code Book</h3>
+    <table>
+      <tr>
+        <th>Code</th>
+        <th>Definition</th>
+      </tr>
+      <tr>
+        <td><strong>VUI Fault</strong></td>
+        <td>User blames an error on the VUI.</td>
+      </tr>
+      <tr>
+        <td><strong>User Fault</strong></td>
+        <td>User blames an error on themselves (or another user). </td>
+      </tr>
+      <tr>
+        <td><strong>Unknown Features</strong></td>
+        <td>User does not know the full scope of a VUI.</td>
+      </tr>
+      <tr>
+        <td><strong>Frustration</strong></td>
+        <td>User is frustrated with a VUI.</td>
+      </tr>
+      <tr>
+        <td><strong>Delight</strong></td>
+        <td>User is delighted by something the VUI does.</td>
+      </tr>
+      <tr>
+        <td><strong>Confusion</strong></td>
+        <td>User is confused by something the VUI does or about what to do themselves.</td>
+      </tr>
+      <tr>
+        <td><strong>Assumption Correct</strong></td>
+        <td>User is assumes something correct about the VUI.</td>
+      </tr>
+      <tr>
+        <td><strong>Assumption Incorrect</strong></td>
+        <td>User is assumes something incorrect about the VUI.</td>
+      </tr>
+      <tr>
+        <td><strong>Assumption False Intelligence</strong></td>
+        <td>User is assumes the VUI is more intelligent than it is.</td>
+      </tr>
+      <tr>
+        <td><strong>Assumption False Ineptness</strong></td>
+        <td>User is assumes the VUI is more inept than it is.</td>
+      </tr>
+      <tr>
+        <td><strong>Misinterpretation</strong></td>
+        <td>User misinterprets the VUI.</td>
+      </tr>
+      <tr>
+        <td><strong>Convenience</strong></td>
+        <td>User decides to use a VUI for convience.</td>
+      </tr>
+      <tr>
+        <td><strong>Bias</strong></td>
+        <td>User has done this with another VUI before or seen someone.</td>
+      </tr>
+      <tr>
+        <td><strong>Overheard</strong></td>
+        <td>User saw someone do this before with a VUI and uses that knowledge.</td>
+      </tr>
+      <tr>
+        <td><strong>Repeat Task</strong></td>
+        <td>User has done this before with a VUI and uses that knowledge.</td>
+      </tr>
+      <tr>
+        <td><strong>Habit</strong></td>
+        <td>User has done this process before with a non-VUI program and uses that knowledge.</td>
+      </tr>
+      <tr>
+        <td><strong>Habit Expectation</strong></td>
+        <td>User expects the VUI feedback or process to mimick their non-VUI habit.</td>
+      </tr>
+      <tr>
+        <td><strong>Conversational</strong></td>
+        <td>User speaks to VUI like it is a person.</td>
+      </tr>
+      <tr>
+        <td><strong>Machine</strong></td>
+        <td>User speaks to VUI like it is a machine.</td>
+      </tr>
+      <tr>
+        <td><strong>Discover</strong></td>
+        <td>User discovers something they did not know before.</td>
+      </tr>
+      <tr>
+        <td><strong>Distrust Accuracy</strong></td>
+        <td>User assume VUIs have a low accuracy and that this applies to everyone else experience.</td>
+      </tr>
+      <tr>
+        <td><strong>Personal Assistant</strong></td>
+        <td>User uses mostly or only personal assistant tasks.</td>
+      </tr>
+      <tr>
+        <td><strong>Novelty</strong></td>
+        <td>User interested in VUI for novelty.</td>
+      </tr>
+      <tr>
+        <td><strong>Slow</strong></td>
+        <td>VUI is perceived as slower than GUIs.</td>
+      </tr>
+      <tr>
+        <td><strong>Hands-free</strong></td>
+        <td>Users are attracted to completing tasks with VUI to be hands-free.</td>
+      </tr>
+      <tr>
+        <td><strong>Multitask</strong></td>
+        <td>User like using VUI while multitasking.</td>
+      </tr>
+      <tr>
+        <td><strong>Public Acceptance</strong></td>
+        <td>Users are embarassed to use VUIs in public and this it is disturbing.</td>
+      </tr>
+      <tr>
+        <td><strong>Leading</strong></td>
+        <td>Prompt could have been leading in the phrase crafting.</td>
+      </tr>
+      <tr>
+        <td><strong>Pressure</strong></td>
+        <td>User feels pressure to say the right phrase.</td>
+      </tr>
+      <tr>
+        <td><strong>Unconfident</strong></td>
+        <td>User is not conficent in what they are saying to VUI.</td>
+      </tr>
+      <tr>
+        <td><strong>Confident</strong></td>
+        <td>User is confident in phrase.</td>
+      </tr>
+      <tr>
+        <td><strong>Lost Track</strong></td>
+        <td>User feels pressure and forgets what to say mid phrase.</td>
+      </tr>
+      <tr>
+        <td><strong>TMI</strong></td>
+        <td>User feels like the VUI provide too much information.</td>
+      </tr>
+      <tr>
+        <td><strong>Impatience</strong></td>
+        <td>User gets impatient with VUIs.</td>
+      </tr>
+      <tr>
+        <td><strong>Anthropomorphic</strong></td>
+        <td>User treats VUI like it is another human.</td>
+      </tr>
+    </table>
+
+    <h3>Categorizing</h3>
+    <p><a href="https://trello.com/b/bAtSnJkP/vui-interviews">Trello Board</a></p>
+
+    <iframe src="https://trello.com/b/bAtSnJkP.html" frameborder="0" width="100%" height="700"></iframe>
+
+
+
+    <hr>
+  </section>
+
+  <section>
+
+    <div class="col">
+      <h2>Interviews</h2>
+    </div>
+
+    <div class="col">
+      <p class="meta">Filter by concepts (codes):
+        <a data-filter=".mix" class="filter reset" href="#">All</a> |
+        
+        
+            <a data-filter=".anthropomorphic" class="filter anthropomorphic" href="#">Anthropomorphic (1)</a> |
+        
+            <a data-filter=".assumption-correct" class="filter assumption-correct" href="#">Assumption correct (6)</a> |
+        
+            <a data-filter=".assumption-false-ineptness" class="filter assumption-false-ineptness" href="#">Assumption false ineptness (1)</a> |
+        
+            <a data-filter=".assumption-false-intelligence" class="filter assumption-false-intelligence" href="#">Assumption false intelligence (5)</a> |
+        
+            <a data-filter=".assumption-incorrect" class="filter assumption-incorrect" href="#">Assumption incorrect (3)</a> |
+        
+            <a data-filter=".bias" class="filter bias" href="#">Bias (5)</a> |
+        
+            <a data-filter=".confusion" class="filter confusion" href="#">Confusion (3)</a> |
+        
+            <a data-filter=".convenience" class="filter convenience" href="#">Convenience (5)</a> |
+        
+            <a data-filter=".conversational" class="filter conversational" href="#">Conversational (8)</a> |
+        
+            <a data-filter=".delight" class="filter delight" href="#">Delight (5)</a> |
+        
+            <a data-filter=".discover" class="filter discover" href="#">Discover (4)</a> |
+        
+            <a data-filter=".disrupting" class="filter disrupting" href="#">Disrupting (1)</a> |
+        
+            <a data-filter=".distrust-accuracy" class="filter distrust-accuracy" href="#">Distrust accuracy (6)</a> |
+        
+            <a data-filter=".frustration" class="filter frustration" href="#">Frustration (3)</a> |
+        
+            <a data-filter=".habit" class="filter habit" href="#">Habit (7)</a> |
+        
+            <a data-filter=".habit-expectation" class="filter habit-expectation" href="#">Habit expectation (5)</a> |
+        
+            <a data-filter=".hands-free" class="filter hands-free" href="#">Hands free (5)</a> |
+        
+            <a data-filter=".impatience" class="filter impatience" href="#">Impatience (1)</a> |
+        
+            <a data-filter=".laziness" class="filter laziness" href="#">Laziness (2)</a> |
+        
+            <a data-filter=".leading" class="filter leading" href="#">Leading (3)</a> |
+        
+            <a data-filter=".lose-track" class="filter lose-track" href="#">Lose track (3)</a> |
+        
+            <a data-filter=".machine" class="filter machine" href="#">Machine (3)</a> |
+        
+            <a data-filter=".misinterpretation" class="filter misinterpretation" href="#">Misinterpretation (4)</a> |
+        
+            <a data-filter=".multitask" class="filter multitask" href="#">Multitask (1)</a> |
+        
+            <a data-filter=".no-desire" class="filter no-desire" href="#">No desire (2)</a> |
+        
+            <a data-filter=".no-sight" class="filter no-sight" href="#">No sight (1)</a> |
+        
+            <a data-filter=".novelty" class="filter novelty" href="#">Novelty (4)</a> |
+        
+            <a data-filter=".overheard" class="filter overheard" href="#">Overheard (5)</a> |
+        
+            <a data-filter=".personal-assistant" class="filter personal-assistant" href="#">Personal assistant (7)</a> |
+        
+            <a data-filter=".pressure" class="filter pressure" href="#">Pressure (1)</a> |
+        
+            <a data-filter=".public-acceptance" class="filter public-acceptance" href="#">Public acceptance (2)</a> |
+        
+            <a data-filter=".repeat-task" class="filter repeat-task" href="#">Repeat task (5)</a> |
+        
+            <a data-filter=".slow" class="filter slow" href="#">Slow (5)</a> |
+        
+            <a data-filter=".specific" class="filter specific" href="#">Specific (5)</a> |
+        
+            <a data-filter=".tmi" class="filter tmi" href="#">Tmi (6)</a> |
+        
+            <a data-filter=".trust" class="filter trust" href="#">Trust (1)</a> |
+        
+            <a data-filter=".unconfident" class="filter unconfident" href="#">Unconfident (5)</a> |
+        
+            <a data-filter=".unknown-features" class="filter unknown-features" href="#">Unknown features (7)</a> |
+        
+            <a data-filter=".user-fault" class="filter user-fault" href="#">User fault (6)</a> |
+        
+            <a data-filter=".visual-feedback" class="filter visual-feedback" href="#">Visual feedback (1)</a> |
+        
+            <a data-filter=".vui-fault" class="filter vui-fault" href="#">Vui fault (6)</a> |
+        
+       </p>
+    </div>
+
+
+    <div class="post-items filter-posts">
+      
+        <article class="post-item mix personal-assistant distrust-accuracy novelty slow hands-free public-acceptance assumption-correct bias delight assumption-incorrect assumption-false-intelligence leading repeat-task conversational pressure vui-fault user-fault unknown-features convenience specific post-tech">
+          <a href="/2017/02/21/interview-01.html">
+            <div class="inner">
+
+                <h3>Interview #1</h3>
+                <span class="meta">02.21.2017</span>
+
+                <ul>
+  <li><strong>Gender:</strong> Male</li>
+  <li><strong>Age:</strong> 25</li>
+  <li><strong>Phone:</strong> iPhone 6</li>
+  <li><strong>VUI Usage:</strong> Daily</li>
+  <li><strong>Past VUIs:</strong> Siri, Alexa</li>
+  <li><strong>Past Tasks:</strong> Weather, speech-to-text, timers</li>
+  <li><strong>Hardest Task:</strong> News</li>
+  <li><strong>Easiest Task:</strong> Music</li>
+</ul>
+
+
+
+
+                <p class="read-more">Read More</p>
+
+            </div>
+          </a>
+        </article>
+
+      
+        <article class="post-item mix personal-assistant bias unknown-features convenience no-sight hands-free slow disrupting lose-track trust delight repeat-task overheard confusion unconfident leading vui-fault misinterpretation specific tmi habit-expectation habit unconfident conversational post-tech">
+          <a href="/2017/02/21/interview-02.html">
+            <div class="inner">
+
+                <h3>Interview #2</h3>
+                <span class="meta">02.21.2017</span>
+
+                <ul>
+  <li><strong>Gender:</strong> Male</li>
+  <li><strong>Age:</strong> 24</li>
+  <li><strong>Phone:</strong> iPhone 6s</li>
+  <li><strong>VUI Usage:</strong> Daily</li>
+  <li><strong>Past VUIs:</strong> Siri, Alexa</li>
+  <li><strong>Past Tasks:</strong> Alarms, timers, play music</li>
+  <li><strong>Hardest Task:</strong> Grocery List, news</li>
+  <li><strong>Easiest Task:</strong> Timer</li>
+</ul>
+
+
+
+
+                <p class="read-more">Read More</p>
+
+            </div>
+          </a>
+        </article>
+
+      
+        <article class="post-item mix bias unknown-features no-desire novelty slow laziness user-fault visual-feedback public-acceptance overheard delight assumption-false-ineptness specific assumption-correct habit habit-expectation repeat-task confusion tmi personal-assistant distrust-accuracy conversational post-tech">
+          <a href="/2017/02/22/interview-03.html">
+            <div class="inner">
+
+                <h3>Interview #3</h3>
+                <span class="meta">02.22.2017</span>
+
+                <ul>
+  <li><strong>Gender:</strong> Male</li>
+  <li><strong>Age:</strong> 25</li>
+  <li><strong>Phone:</strong> Moto X</li>
+  <li><strong>VUI Usage:</strong> 1x-2x Month</li>
+  <li><strong>Past VUIs:</strong> Alexa, Cortana, Google Assistant</li>
+  <li><strong>Past Tasks:</strong> Play music, speech-to-text</li>
+  <li><strong>Hardest Task:</strong> Grocery List</li>
+  <li><strong>Easiest Task:</strong> News</li>
+</ul>
+
+
+
+
+                <p class="read-more">Read More</p>
+
+            </div>
+          </a>
+        </article>
+
+      
+        <article class="post-item mix bias convenience hands-free multitask personal-assistant distrust-accuracy frustration tmi repeat-task overheard assumption-correct vui-fault impatience unknown-features conversational lose-track misinterpretation assumption-false-intelligence habit post-tech">
+          <a href="/2017/02/22/interview-04.html">
+            <div class="inner">
+
+                <h3>Interview #4</h3>
+                <span class="meta">02.22.2017</span>
+
+                <ul>
+  <li><strong>Gender:</strong> Male</li>
+  <li><strong>Age:</strong> 28</li>
+  <li><strong>Phone:</strong> Samsung S7</li>
+  <li><strong>VUI Usage:</strong> Daily</li>
+  <li><strong>Past VUIs:</strong> Alexa, Google Assistant</li>
+  <li><strong>Past Tasks:</strong> Weather, play music, timers, grocery lists</li>
+  <li><strong>Hardest Task:</strong> Timer</li>
+  <li><strong>Easiest Task:</strong> News</li>
+</ul>
+
+
+
+
+                <p class="read-more">Read More</p>
+
+            </div>
+          </a>
+        </article>
+
+      
+        <article class="post-item mix novelty unknown-features distrust-accuracy slow vui-fault confusion unconfident habit-expectation conversational habit machine user-fault lose-track leading delight assumption-correct discover misinterpretation assumption-false-intelligence post-tech">
+          <a href="/2017/02/28/interview-05.html">
+            <div class="inner">
+
+                <h3>Interview #5</h3>
+                <span class="meta">02.28.2017</span>
+
+                <ul>
+  <li><strong>Gender:</strong> Female</li>
+  <li><strong>Age:</strong> 23</li>
+  <li><strong>Phone:</strong> Samsung S7</li>
+  <li><strong>VUI Usage:</strong> Rarely</li>
+  <li><strong>Past VUIs:</strong> Google Assistant, Siri</li>
+  <li><strong>Past Tasks:</strong> Novelty tasks</li>
+  <li><strong>Hardest Task:</strong> Grocery and News</li>
+  <li><strong>Easiest Task:</strong> Timer</li>
+</ul>
+
+
+
+
+                <p class="read-more">Read More</p>
+
+            </div>
+          </a>
+        </article>
+
+      
+        <article class="post-item mix conversational habit-expectation user-fault no-desire delight discover anthropomorphic tmi habit unconfident specific vui-fault personal-assistant post-tech">
+          <a href="/2017/02/28/interview-06.html">
+            <div class="inner">
+
+                <h3>Interview #6</h3>
+                <span class="meta">02.28.2017</span>
+
+                <ul>
+  <li><strong>Gender:</strong> Male</li>
+  <li><strong>Age:</strong> 24</li>
+  <li><strong>Phone:</strong> Nexus 6</li>
+  <li><strong>VUI Usage:</strong> Rarely</li>
+  <li><strong>Past VUIs:</strong> Siri</li>
+  <li><strong>Past Tasks:</strong> Novelty tasks</li>
+  <li><strong>Hardest Task:</strong> Grocery</li>
+  <li><strong>Easiest Task:</strong> News</li>
+</ul>
+
+
+
+
+                <p class="read-more">Read More</p>
+
+            </div>
+          </a>
+        </article>
+
+      
+        <article class="post-item mix conversational machine distrust-accuracy frustration convenience novelty hands-free personal-assistant unknown-features overheard habit unconfident user-fault discover assumption-correct tmi assumption-false-intelligence assumption-incorrect post-tech">
+          <a href="/2017/03/06/interview-07.html">
+            <div class="inner">
+
+                <h3>Interview #7</h3>
+                <span class="meta">03.6.2017</span>
+
+                <ul>
+  <li><strong>Gender:</strong> Male</li>
+  <li><strong>Age:</strong> 27</li>
+  <li><strong>Phone:</strong> Nexus 6P</li>
+  <li><strong>VUI Usage:</strong> 4x Weekly</li>
+  <li><strong>Past VUIs:</strong> Xbox One</li>
+  <li><strong>Past Tasks:</strong> Turn on, turn off, open apps</li>
+  <li><strong>Hardest Task:</strong> News</li>
+  <li><strong>Easiest Task:</strong> Weather</li>
+</ul>
+
+
+
+
+                <p class="read-more">Read More</p>
+
+            </div>
+          </a>
+        </article>
+
+      
+        <article class="post-item mix bias vui-fault distrust-accuracy convenience hands-free slow laziness unknown-features personal-assistant overheard repeat-task assumption-correct habit assumption-incorrect discover habit-expectation frustration tmi assumption-false-intelligence user-fault misinterpretation machine specific conversational post-tech">
+          <a href="/2017/03/15/interview-08.html">
+            <div class="inner">
+
+                <h3>Interview #8</h3>
+                <span class="meta">03.15.2017</span>
+
+                <ul>
+  <li><strong>Gender:</strong> Male</li>
+  <li><strong>Age:</strong> 23</li>
+  <li><strong>Phone:</strong> iPhone 5s</li>
+  <li><strong>VUI Usage:</strong> Monthly</li>
+  <li><strong>Past VUIs:</strong> Siri, Word dictation</li>
+  <li><strong>Tasks:</strong> Weather, timer, speech-to-text</li>
+  <li><strong>Hardest Task:</strong> News</li>
+  <li><strong>Easiest Task:</strong> Weather</li>
+</ul>
+
+
+
+
+                <p class="read-more">Read More</p>
+
+            </div>
+          </a>
+        </article>
+
+      
+    </div>
+
+
+  </section>
+
+    </main>
+
+    <footer>
+  <p><a href="https://twitter.com/chelmyers">@chelmyers</a></p>
+  <p>Chelsea Myers &copy; 2017</p>
+</footer>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="/js/jquery.fitvids.js" type="text/javascript"></script>
+<script src="/js/jquery.mixitup.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+  $(document).ready(function(){
+
+    $('[data-filter]').click(function(event){
+      event.preventDefault();
+    });
+
+    $(".longform").fitVids();
+
+    $(".filter-posts").mixItUp({
+      animation: {
+    		enable: false
+    	},
+    	callbacks: {
+    		onMixLoad: function(){
+    			$(this).mixItUp('setOptions', {
+    				animation: {
+    					enable: true
+    				},
+    			});
+    		}
+    	},
+      layout: {
+        display: 'flex'
+      }
+    });
+  });
+</script>
+
+
+  </body>
+
+</html>
