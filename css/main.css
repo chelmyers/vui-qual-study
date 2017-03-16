@@ -907,6 +907,9 @@ a.reset {
 table {
   margin-bottom: 30px; }
 
+a.filter.active {
+  text-decoration: underline; }
+
 /**
  * Site header
  */
